@@ -75,7 +75,7 @@ function PersonCard({ person, index }: { person: Person; index: number }) {
             <Image
               src={person.logo}
               alt={person.company}
-              width={110}
+              width={person.logoIcon ? 28 : 110}
               height={28}
               className="company-logo"
             />
