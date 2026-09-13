@@ -22,91 +22,68 @@ function Arrow({ diagonal = false }: { diagonal?: boolean }) {
 }
 
 function PersonCard({ person, index }: { person: Person; index: number }) {
+  const brands = [
+    ...(person.logo
+      ? [{ name: person.company, label: "Empresa actual", logo: person.logo, logoDark: person.logoDark }]
+      : []),
+    ...(person.affiliations ?? []),
+  ];
+  const featuredBrands = person.featuredLogos
+    ? brands.filter((brand) => person.featuredLogos?.includes(brand.name)).slice(0, 2)
+    : brands.slice(0, 2);
+
   return (
     <article className={`person-card ${person.category}`}>
-      <a
-        href={person.linkedin}
-        target="_blank"
-        rel="noopener noreferrer"
-        className="portrait-link"
-        aria-label={`Ver a ${person.name} en LinkedIn (abre otra pestaña)`}
-      >
-        <div className="portrait-frame">
-          {person.photo ? (
-            <Image
-              src={person.photo}
-              alt={person.name}
-              fill
-              sizes="(max-width: 360px) 96px, (max-width: 600px) 112px, (max-width: 700px) 45vw, (max-width: 1200px) 30vw, 18vw"
-              priority={person.category === "speaker" && index < 3}
-              style={{
-                objectPosition: person.photoPosition ?? "center 35%",
-                objectFit: person.photoFit ?? "cover",
-              }}
-            />
-          ) : (
-            <span
-              className="portrait-initials"
-              aria-label={`Perfil de ${person.name}`}
-            >
-              {person.name
-                .split(" ")
-                .map((part) => part[0])
-                .slice(0, 2)
-                .join("")}
-            </span>
-          )}
-          <span className="portrait-arrow">
-            <Arrow diagonal />
-          </span>
-        </div>
-      </a>
-      <div className="person-info">
-        <h3>
-          <a href={person.linkedin} target="_blank" rel="noopener noreferrer">
-            {person.name}
-          </a>
-        </h3>
-        <p className="person-role">{person.role}</p>
-        <div
-          className={`company-line ${person.logoDark ? "logo-dark" : ""} ${person.logoIcon ? "logo-icon" : ""}`}
+      <div className="person-intro">
+        <a
+          href={person.linkedin}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="portrait-link"
+          aria-label={`Ver a ${person.name} en LinkedIn (abre otra pestaña)`}
         >
-          {person.logo && (
-            <Image
-              src={person.logo}
-              alt={person.company}
-              width={person.logoIcon ? 28 : 110}
-              height={28}
-              className="company-logo"
-            />
-          )}
-          {(!person.logo || person.logoIcon) && <span>{person.company}</span>}
+          <div className="portrait-frame">
+            {person.photo ? (
+              <Image
+                src={person.photo}
+                alt={person.name}
+                fill
+                sizes="(max-width: 420px) 88px, 104px"
+                preload={person.category === "speaker" && index < 3}
+                style={{
+                  objectPosition: person.photoPosition ?? "center 35%",
+                  objectFit: person.photoFit ?? "cover",
+                }}
+              />
+            ) : (
+              <span className="portrait-initials">
+                {person.name.split(" ").map((part) => part[0]).slice(0, 2).join("")}
+              </span>
+            )}
+          </div>
+        </a>
+        <div className="person-heading">
+          <h3>
+            <a href={person.linkedin} target="_blank" rel="noopener noreferrer">
+              {person.name}
+            </a>
+          </h3>
+          <p className="person-role">{person.role}</p>
+          <p className="person-company">{person.company}</p>
         </div>
-        <p className="person-bio">{person.bio}</p>
-        <div className="career-marks">
-          {!!person.affiliations?.length && (
-            <ul aria-label={`Trayectoria de ${person.name}`}>
-              {person.affiliations.map((affiliation) => (
-                <li key={affiliation.name}>
-                  <div className={`career-logo ${affiliation.logoDark ? "career-logo-dark" : ""}`}>
-                    <Image
-                      src={affiliation.logo}
-                      alt={affiliation.name}
-                      fill
-                      sizes="110px"
-                    />
-                  </div>
-                  <span>{affiliation.label}</span>
-                </li>
-              ))}
-            </ul>
-          )}
-        </div>
-        <div className="topics">
-          {person.topics.map((topic) => (
-            <span key={topic}>{topic}</span>
+      </div>
+      <p className="person-bio">{person.bio}</p>
+      <div className="person-footer">
+        <ul className="person-brands" aria-label={`Empresas y trayectoria de ${person.name}`}>
+          {featuredBrands.map((brand) => (
+            <li key={brand.name}>
+              <div className={`brand-image ${brand.logoDark ? "brand-image-dark" : ""}`}>
+                <Image src={brand.logo} alt={brand.name} fill sizes="140px" />
+              </div>
+              <span>{brand.label}</span>
+            </li>
           ))}
-        </div>
+        </ul>
         <a
           className="linkedin-link"
           href={person.linkedin}
@@ -114,9 +91,7 @@ function PersonCard({ person, index }: { person: Person; index: number }) {
           rel="noopener noreferrer"
           aria-label={`LinkedIn de ${person.name} (abre otra pestaña)`}
         >
-          <span className="linkedin-icon" aria-hidden="true">
-            in
-          </span>
+          <span className="linkedin-icon" aria-hidden="true">in</span>
           Conectar en LinkedIn
           <Arrow diagonal />
         </a>
@@ -164,7 +139,7 @@ export default function Home() {
             src="/images/napa-dither.webp"
             alt=""
             fill
-            priority
+            preload
             sizes="100vw"
             className="hero-landscape"
           />

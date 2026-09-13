@@ -314,7 +314,7 @@ Lidera el marketing global de Torre.ai en Latinoamérica y Estados Unidos. Combi
 - La pestaña temporal de Firefox fue cerrada al terminar; pestaña original preservada.
 
 ## Logos de trayectoria — actualización editorial
-Revisión del 13 de septiembre de 2026. Las 18 minibios se nivelaron a 175–194 caracteres (24–29 palabras). La empresa actual conserva su posición junto al cargo; se añaden hasta dos logos de trayectoria con una relación visible. Las tarjetas comparten filas en escritorio sin recortar el texto.
+Revisión del 13 de septiembre de 2026. Las 18 minibios se nivelaron a 175–194 caracteres (24–29 palabras). La empresa actual se identifica como texto junto al cargo. El catálogo conserva hasta dos afiliaciones adicionales; la interfaz destaca un máximo de dos marcas por tarjeta con su relación visible. La selección editorial prioriza reconocimiento y relevancia, y puede omitir el logo actual cuando la empresa ya queda identificada en el encabezado. Las tarjetas usan flujo normal, sin alturas internas compartidas ni truncamiento.
 ### Alexander Torrenegra
 - **Shark Tank · Exinversionista**. [Fuente del vínculo](https://www.torrenegra.com/es/alexander). Página oficial: inversionista en Shark Tank Colombia y México entre 2017 y 2024. Su página personal me.torrenegra.com también se presenta como Rehabilitated Shark Tank investor.
   - Activo local: `/images/affiliations/shark-tank.png`. Origen: /Users/alanarguello/Downloads/consulting_website/public/images/logos/hosts/shark-tank.png.

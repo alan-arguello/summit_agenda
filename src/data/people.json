@@ -24,6 +24,10 @@
         "label": "Young Global Leader",
         "logo": "/images/affiliations/world-economic-forum.png"
       }
+    ],
+    "featuredLogos": [
+      "Shark Tank",
+      "World Economic Forum"
     ]
   },
   {
@@ -80,6 +84,10 @@
         "label": "Trendi · aceleración",
         "logo": "/images/affiliations/platanus-ventures.png"
       }
+    ],
+    "featuredLogos": [
+      "Georgia Tech",
+      "Platanus Ventures"
     ]
   },
   {

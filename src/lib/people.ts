@@ -14,6 +14,7 @@ export type Person = {
   logo?: string;
   logoDark?: boolean;
   logoIcon?: boolean;
+  featuredLogos?: string[];
   affiliations?: {
     name: string;
     label: string;
