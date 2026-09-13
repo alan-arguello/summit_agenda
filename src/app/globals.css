@@ -1149,3 +1149,127 @@ html {
     grid-column: 2;
   }
 }
+
+/* Shared rows keep each part of neighboring cards aligned as copy wraps. */
+.career-marks ul {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 14px;
+  list-style: none;
+  padding: 0;
+  margin: 22px 0 0;
+}
+.career-marks li {
+  min-width: 0;
+}
+.career-logo {
+  position: relative;
+  height: 40px;
+  width: 100%;
+  max-width: 110px;
+  margin-bottom: 9px;
+}
+.career-logo img {
+  object-fit: contain;
+  object-position: left center;
+}
+.career-logo-dark img {
+  filter: brightness(0) saturate(100%);
+  opacity: 0.83;
+}
+.career-marks li > span {
+  display: block;
+  font-size: 12px;
+  line-height: 1.35;
+  color: var(--muted);
+  text-wrap: pretty;
+}
+@media (min-width: 601px) {
+  .people-grid {
+    row-gap: 0;
+  }
+  .person-card {
+    display: grid;
+    grid-row: span 8;
+    grid-template-rows: subgrid;
+    align-items: start;
+    row-gap: 0;
+  }
+  .person-info {
+    display: contents;
+  }
+  .portrait-link {
+    grid-row: 1;
+  }
+  .person-info h3 {
+    grid-row: 2;
+    min-height: 0;
+    margin-top: 20px;
+    text-wrap: balance;
+  }
+  .person-role {
+    grid-row: 3;
+    min-height: 0;
+    margin-top: 8px;
+    text-wrap: pretty;
+  }
+  .company-line {
+    grid-row: 4;
+    min-height: 38px;
+    margin: 12px 0 16px;
+  }
+  .company-logo {
+    height: 30px;
+    max-height: 32px;
+    max-width: 132px;
+  }
+  .person-bio {
+    grid-row: 5;
+    font-size: 16px;
+    line-height: 1.58;
+    text-wrap: pretty;
+  }
+  .career-marks {
+    grid-row: 6;
+  }
+  .topics {
+    grid-row: 7;
+    margin: 20px 0 16px;
+    align-content: start;
+  }
+  .linkedin-link {
+    grid-row: 8;
+    margin: 0;
+    padding: 14px 0;
+    min-height: 48px;
+    align-self: end;
+  }
+  .attendee .linkedin-link,
+  .speaker .linkedin-link {
+    margin-bottom: 42px;
+  }
+}
+@media (max-width: 600px) {
+  .career-marks {
+    grid-column: 1 / -1;
+    grid-row: 5;
+  }
+  .career-marks ul {
+    max-width: 310px;
+    gap: 24px;
+    margin-top: 20px;
+  }
+  .career-logo {
+    max-width: 124px;
+    height: 40px;
+  }
+  .career-marks li > span {
+    font-size: 12px;
+  }
+  .topics {
+    grid-row: 6;
+  }
+  .linkedin-link {
+    grid-row: 7;
+  }
+}

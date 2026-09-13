@@ -14,6 +14,12 @@ export type Person = {
   logo?: string;
   logoDark?: boolean;
   logoIcon?: boolean;
+  affiliations?: {
+    name: string;
+    label: string;
+    logo: string;
+    logoDark?: boolean;
+  }[];
   category: "speaker" | "attendee";
 };
 

@@ -37,7 +37,7 @@ function PersonCard({ person, index }: { person: Person; index: number }) {
               src={person.photo}
               alt={person.name}
               fill
-              sizes="(max-width: 560px) 90vw, (max-width: 1200px) 45vw, 22vw"
+              sizes="(max-width: 360px) 96px, (max-width: 600px) 112px, (max-width: 700px) 45vw, (max-width: 1200px) 30vw, 18vw"
               priority={person.category === "speaker" && index < 3}
               style={{
                 objectPosition: person.photoPosition ?? "center 35%",
@@ -83,6 +83,25 @@ function PersonCard({ person, index }: { person: Person; index: number }) {
           {(!person.logo || person.logoIcon) && <span>{person.company}</span>}
         </div>
         <p className="person-bio">{person.bio}</p>
+        <div className="career-marks">
+          {!!person.affiliations?.length && (
+            <ul aria-label={`Trayectoria de ${person.name}`}>
+              {person.affiliations.map((affiliation) => (
+                <li key={affiliation.name}>
+                  <div className={`career-logo ${affiliation.logoDark ? "career-logo-dark" : ""}`}>
+                    <Image
+                      src={affiliation.logo}
+                      alt={affiliation.name}
+                      fill
+                      sizes="110px"
+                    />
+                  </div>
+                  <span>{affiliation.label}</span>
+                </li>
+              ))}
+            </ul>
+          )}
+        </div>
         <div className="topics">
           {person.topics.map((topic) => (
             <span key={topic}>{topic}</span>

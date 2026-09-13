@@ -8,7 +8,7 @@ Diseño, Switzer, paisaje y retratos del equipo reutilizados de la página ofici
 
 Fundador y CEO · Torre.ai
 
-Fundador y CEO de Torre.ai, donde trabaja en automatizar el reclutamiento con inteligencia artificial. Cofundó Voice123 y Bunny Studio y ha construido marketplaces globales, además de invertir y acompañar a otros emprendedores.
+Construye marketplaces globales con inteligencia artificial. Cofundó Voice123 y Bunny Studio, y combina su experiencia como emprendedor e inversionista para repensar el futuro del trabajo.
 
 - [Perfil propio: CEO de Torre.ai y cofundador de Voice123 y Bunny Studio.](https://torre.ai/torrenegra)
 - [Sitio oficial de Torre.ai: fundador y enfoque en automatizar reclutamiento y búsqueda laboral.](https://torre.ai/es/about)
@@ -24,7 +24,7 @@ Fundador y CEO de Torre.ai, donde trabaja en automatizar el reclutamiento con in
 
 Chairwoman · Bunny Inc.
 
-Cofundadora de Voice123 y Bunny Studio, hoy preside Bunny Inc. Acompaña a empresas en estrategia, procesos y liderazgo, y participa como inversionista y asesora de startups en Latinoamérica y Estados Unidos.
+Cofundó Voice123 y Bunny Studio. Acompaña a empresas en estrategia, procesos y liderazgo, con experiencia construyendo y escalando negocios entre Latinoamérica y Estados Unidos.
 
 - [Web personal: Chairwoman desde agosto de 2025, trayectoria fundadora y consultoría de crecimiento.](https://taniazapata.com/)
 - [Sitio oficial y origen del logo corporativo descargado.](https://bunnyinc.com/)
@@ -41,7 +41,7 @@ Cofundadora de Voice123 y Bunny Studio, hoy preside Bunny Inc. Acompaña a empre
 
 Cofundador y CTO · Torrenegra Consulting
 
-Ingeniero eléctrico y de software, y cofundador de Torrenegra Consulting. Trabaja con organizaciones para identificar oportunidades de IA, rediseñar procesos y llevar soluciones a la operación. Antes construyó productos y programas para emprendedores latinoamericanos.
+Ingeniero eléctrico y de software. Ayuda a organizaciones a adoptar IA, rediseñar procesos y llevar soluciones a la operación, con experiencia creando productos y comunidades emprendedoras.
 
 - [Web personal: Cofounder & CTO de Torrenegra Consulting desde marzo de 2026; trayectoria de ingeniería y programas de emprendimiento.](https://www.alanarguello.me/about)
 - [Web corporativa, marca pública Torrenegra & Co: Alan figura como Co-Founder & CTO.](https://www.torrenegra.com/es)
@@ -59,7 +59,7 @@ Ingeniero eléctrico y de software, y cofundador de Torrenegra Consulting. Traba
 
 Fundador y CEO · Northe
 
-Fundador y CEO de Northe, especializado en implementar soluciones tecnológicas e IA en entornos complejos. Dirige un programa de transformación digital de salud pública en El Salvador y coordina equipos multidisciplinarios y proyectos de gran escala.
+Lidera proyectos de IA y tecnología en entornos complejos. Dirige un programa de transformación digital de salud pública en El Salvador y coordina equipos multidisciplinarios.
 
 - [Perfil exacto leído en Firefox el 13 de septiembre de 2026: AI & GovTech Program Director | Digital Health | Founder at Northe. About: founder and CEO of Northe; programa de transformación digital en salud pública de El Salvador.](https://www.linkedin.com/in/santy-bevilacqua/)
 - [Sitio corporativo de Northe, consultoría y desarrollo tecnológico; descargado mediante HTTP para obtener el logo original.](https://wearenorthe.com/)
@@ -76,7 +76,7 @@ Fundador y CEO de Northe, especializado en implementar soluciones tecnológicas 
 
 VP de AI · Domu
 
-Lidera inteligencia artificial en Domu, compañía de Y Combinator que desarrolla agentes para automatizar interacciones de cobranza. Antes integró los equipos fundadores de Dapta y Kill B, combinando desarrollo tecnológico y experiencia de producto.
+Desarrolla agentes de IA para automatizar conversaciones de cobranza. Integró los equipos fundadores de Dapta y Kill B, conectando ingeniería, producto y experiencia de usuario.
 
 - [Página oficial del retiro: VP de AI en Domu, equipos fundadores de Dapta y Kill B, foto y vínculo exacto de LinkedIn.](https://www.torrenegra.com/es/retreat)
 - [Perfil exacto indexado como Duvan S. - Domu; publicaciones propias sobre founding product manager en Dapta y experiencia de usuario en IA.](https://co.linkedin.com/in/duvansalcedo)
@@ -93,7 +93,7 @@ Lidera inteligencia artificial en Domu, compañía de Y Combinator que desarroll
 
 Arquitecto de aplicaciones y datos · NTT DATA
 
-Arquitecto de datos y consultor de inteligencia de negocios en NTT DATA. Ha trabajado con plataformas Azure, modelos de datos y analítica empresarial, y comparte cómo aplicar inteligencia artificial al desarrollo y la calidad de proyectos de BI.
+Diseña arquitecturas de datos y soluciones de inteligencia de negocios. Combina experiencia en Azure y analítica empresarial con aplicaciones de IA para mejorar proyectos de BI.
 
 - [Perfil exacto indexado: Jefersón Andrés A.; NTT DATA Europe & Latam; consultor de BI; proyectos Azure, Data Vault y búsqueda cognitiva.](https://co.linkedin.com/in/andres-argumero/es)
 - [Podcast oficial NTT DATA LATAM, episodio 185 (15 octubre 2024): Andrés Argumero, arquitecto de datos; IA aplicada al desarrollo y calidad de BI.](https://podcasts.apple.com/us/podcast/185-evoluci%C3%B3n-de-la-ia-en-la-explotaci%C3%B3n-de-datos/id1472434339?i=1000673223689)
@@ -110,7 +110,7 @@ Arquitecto de datos y consultor de inteligencia de negocios en NTT DATA. Ha trab
 
 Líder de ingeniería · Yuno
 
-Líder de ingeniería en Yuno, con trayectoria en productos móviles y plataformas de pagos. Ha trabajado en Rappi y Bia, y comparte experiencias sobre integración de pagos, herramientas para desarrolladores y equipos de ingeniería que incorporan IA.
+Construye productos móviles y plataformas de pagos. Su trayectoria en Yuno, Rappi y Bia conecta liderazgo de ingeniería, herramientas para desarrolladores e incorporación de IA.
 
 - [Perfil público exacto recuperado: Yuno como empresa actual; publicaciones propias sobre MCP, herramientas para desarrolladores e infraestructura de pagos; foto original desde su perfil.](https://co.linkedin.com/in/romelapj)
 - [Publicación propia que documenta su trabajo con el equipo Yuno en Payment Passkey Service de Mastercard.](https://es.linkedin.com/posts/romelapj_the-mastercard-payment-passkey-service-debuts-activity-7270482499963600896-x4yv)
@@ -127,7 +127,7 @@ Líder de ingeniería en Yuno, con trayectoria en productos móviles y plataform
 
 CEO y cofundador · CertiProf
 
-CEO y cofundador de CertiProf, con más de 25 años de experiencia en educación y formación profesional. Trabaja con academias y universidades para validar habilidades mediante certificaciones y credenciales digitales, e impulsa conversaciones sobre adopción de IA.
+Lleva más de 25 años en educación y formación profesional. Impulsa certificaciones, credenciales digitales y adopción de IA para conectar nuevas habilidades con oportunidades de desarrollo.
 
 - [Sitio personal oficial: CEO y cofundador de CertiProf; trayectoria de más de 25 años; retrato descargado directamente de esta página.](https://www.ismaelramirez.com/)
 - [Publicación de su sitio sobre estrategia y adopción real de IA, gobernanza y métricas.](https://www.ismaelramirez.com/blog/exito-estrategico-y-la-adopcion-real-de-la-ia)
@@ -143,7 +143,7 @@ CEO y cofundador de CertiProf, con más de 25 años de experiencia en educación
 
 Líder de mantenimiento · Cementos Argos
 
-Ingeniero mecánico vinculado a Cementos Argos en República Dominicana, con experiencia en mantenimiento y proyectos industriales. Su trayectoria incluye automatización de paletizado de cemento, montaje de equipos y trabajo técnico en entornos de producción.
+Ingeniero mecánico con experiencia en mantenimiento industrial. Ha trabajado en automatización de paletizado de cemento, montaje de equipos y operaciones de producción en República Dominicana.
 
 - [Perfil exacto: Cementos Argos, República Dominicana; ingeniero mecánico; proyectos de robot paletizador y montaje industrial.](https://do.linkedin.com/in/drodrirodr)
 - [Publicación propia sobre el equipo de mantenimiento de Cementos Argos RD; respalda área de trabajo.](https://es.linkedin.com/posts/daniel-alberto-rodriguez-45355219_celebrando-con-cementos-argos-rd-y-el-equipo-activity-7168269530421514241-k8Kx)
@@ -158,7 +158,7 @@ Ingeniero mecánico vinculado a Cementos Argos en República Dominicana, con exp
 
 Fundador y CEO · Estárter
 
-Fundador y CEO de Estárter, empresa de transporte de personal que integra tecnología para planear rutas y gestionar traslados. Su trabajo conecta movilidad empresarial, eficiencia operativa y desarrollo comercial en distintas ciudades de Colombia.
+Integra tecnología al transporte de personal. Su trabajo conecta planeación de rutas, eficiencia operativa y desarrollo comercial para mejorar la movilidad empresarial en ciudades de Colombia.
 
 - [Perfil exacto: Founder y CEO Estarter.co.](https://co.linkedin.com/in/nicolaspovedas)
 - [Sitio oficial: transporte de personal, plataforma digital, planeación de rutas y operación en ciudades colombianas; logo SVG oficial descargado.](https://estarter.co/)
@@ -173,7 +173,7 @@ Fundador y CEO de Estárter, empresa de transporte de personal que integra tecno
 
 Cofundador · Clonica
 
-Cofundador de Clonica y especialista en investigación centrada en las personas. Trabaja con usuarios sintéticos basados en investigación cualitativa para ayudar a equipos de producto a explorar, validar y tomar mejores decisiones con IA.
+Explora la IA desde la investigación centrada en las personas. Trabaja con usuarios sintéticos para ayudar a equipos de producto a explorar, validar y tomar mejores decisiones.
 
 - [Fuente primaria del autor: Head of Human-Centered AI; investigación cualitativa y creación de Clonica. Incluye vínculo exacto a LinkedIn y foto del autor.](https://www.interactius.com/miradas/clonica/clonica-no-es-magia-es-research-con-ia-asi-trabajamos-con-usuarios-sinteticos)
 - [Cuenta oficial de Interactius identifica a Carlos Ruiz y Lucho Domínguez como founders de Clonica.](https://es.linkedin.com/posts/interactius_research-productdesign-uxresearch-activity-7393940475902066688-9UPQ)
@@ -188,7 +188,7 @@ Cofundador de Clonica y especialista en investigación centrada en las personas.
 
 Especialista de Creciente · Storyteller · YDN · Youth Development Network
 
-Productor audiovisual y artista con formación en Derecho. En YDN participa en el programa Creciente y desarrolla narrativas que amplifican voces de la comunidad latina, conectando creatividad, liderazgo y desarrollo de comunidades.
+Productor audiovisual y artista con formación en Derecho. Crea narrativas que amplifican voces latinas y participa en Creciente, conectando creatividad, liderazgo y desarrollo de comunidades.
 
 - [Perfil exacto indexado: YDN, Greater Sacramento, Universidad Católica de Colombia; actividad en producción audiovisual y programa Creciente.](https://www.linkedin.com/in/julianmphoenix)
 - [Página oficial de equipo: Creciente Program Specialist and Resident Storyteller; biografía actual.](https://ydnetwork.org/about-us/)
@@ -204,7 +204,7 @@ Productor audiovisual y artista con formación en Derecho. En YDN participa en e
 
 Profesora investigadora · EGADE Business School
 
-Profesora investigadora de Estrategia y Liderazgo en EGADE Business School. Cuenta con más de veinte años de experiencia en docencia, investigación, gestión académica y consultoría, con trayectoria en emprendimiento y transformación digital de organizaciones.
+Investiga estrategia, liderazgo y emprendimiento. Reúne más de veinte años de experiencia en docencia, gestión académica y consultoría, con foco en la transformación digital de organizaciones.
 
 - [Ficha oficial consultada por descarga HTML: profesora investigadora de Estrategia y Liderazgo; más de 20 años de trayectoria y cargos académicos previos.](https://egade.tec.mx/en/autor/claudia-patricia-alvarez)
 - [Área de Transformación Digital: identifica autora y afiliación actual.](https://egade.tec.mx/en/taxonomy/term/132)
@@ -220,7 +220,7 @@ Profesora investigadora de Estrategia y Liderazgo en EGADE Business School. Cuen
 
 CEO · Santa Fe Energy
 
-CEO de Santa Fe Energy, empresa dedicada a comercialización, generación y consultoría energética. Su trabajo aborda estrategia y analítica del mercado eléctrico, negociación de contratos y decisiones para una transición energética sostenible.
+Trabaja en comercialización, generación y consultoría energética. Combina analítica del mercado eléctrico y negociación de contratos para orientar decisiones en un sector en transformación.
 
 - [Equipo oficial identifica por nombre completo a Óscar David Lozano Meneses como CEO e incluye retrato original.](https://santafeenergy.com.co/quienes-somos/)
 - [Sitio oficial describe comercialización, generación, consultoría y formación energética.](https://santafeenergy.com.co/)
@@ -237,7 +237,7 @@ CEO de Santa Fe Energy, empresa dedicada a comercialización, generación y cons
 
 Fundador · Dumpster Team
 
-Fundador de Dumpster Team, enfocado en SaaS y operaciones para residuos, construcción y logística. Combina tecnología y coordinación de servicios para conectar proyectos con operadores locales de alquiler de contenedores y gestión de residuos.
+Conecta tecnología y operaciones para residuos, construcción y logística. Desarrolla soluciones SaaS y coordina servicios de contenedores con operadores locales para atender proyectos en campo.
 
 - [Perfil exacto verificado en Firefox por agente speakers: Founder, Dumpster Team, tiempo completo, noviembre 2023 a actualidad, California. Titular: Founder | SaaS & Field Operations for Waste, Construction & Logistics.](https://www.linkedin.com/in/bbravoo)
 - [Sitio oficial verificado vía descarga HTML: modelo de servicios de contenedores, tecnología, coordinación y alianzas locales.](https://dumpster.team/about)
@@ -252,7 +252,7 @@ Fundador de Dumpster Team, enfocado en SaaS y operaciones para residuos, constru
 
 Fundador y CEO · Saees.ai
 
-Fundador y CEO de Saees.ai, plataforma de inteligencia artificial para comercio electrónico. Trabaja en automatización e inteligencia de mercados para ayudar a marcas y vendedores a operar y crecer en Amazon, Walmart y TikTok Shop.
+Aplica inteligencia artificial al comercio electrónico. Trabaja en automatización e inteligencia de mercados para ayudar a marcas y vendedores a crecer en Amazon, Walmart y TikTok Shop.
 
 - [El perfil público indexado identifica a Jorge como Founder & CEO of Saees.ai; consultado el 13 de septiembre de 2026.](https://www.linkedin.com/in/jorgepoloa/)
 - [Página oficial de Saees: plataforma de IA para Amazon y Walmart, automatización de investigación de productos, sourcing, logística y operación de tiendas. Origen del logo oficial descargado.](https://www.linkedin.com/company/saeesofficial)
@@ -265,7 +265,7 @@ Fundador y CEO de Saees.ai, plataforma de inteligencia artificial para comercio 
 - Cargo y empresa confirmados mediante el perfil de LinkedIn público indexado; la apertura directa posterior devolvió HTTP 999.
 - El archivo local retreat-content.ts identifica a Jorge como CEO de Saees y Brandtop. Se usa únicamente Fundador y CEO de Saees.ai porque la fuente primaria pública visible sí confirma este cargo. No se incorpora CEO de Brandtop.
 - No se reutilizan afirmaciones locales sobre clientes Henkel, Avon, Omnilife, Hasbro y Jelly Belly por no haberse revalidado en fuentes primarias.
-- La bio tiene 35 palabras; los temas resumen las áreas de actividad documentadas de la empresa que lidera.
+- Los temas resumen las áreas de actividad documentadas de la empresa que lidera.
 - Foto real reutilizada del asset aprobado /Users/alanarguello/Downloads/consulting_website/public/images/speakers/jorge-polo.webp (1000 x 1163), inspeccionada visualmente: rostro nítido y frontal, gorra negra, fondo azul/púrpura.
 - Logo principal 200 x 200 descargado de la página oficial de Saees en LinkedIn e inspeccionado visualmente. El isotipo coincide con el wordmark local.
 - También se conserva saees-wordmark.png, asset local ya inspeccionado; contiene letras blancas y necesita fondo oscuro para buena legibilidad.
@@ -274,7 +274,7 @@ Fundador y CEO de Saees.ai, plataforma de inteligencia artificial para comercio 
 
 CEO y cofundador · Cloud Seguro
 
-CEO y cofundador de Cloud Seguro. Abogado especializado en derecho informático y ciberseguridad, con formación en ciberinteligencia. Impulsa soluciones que ayudan a las empresas a gestionar riesgos, proteger información y fortalecer su cumplimiento.
+Abogado especializado en derecho informático y ciberseguridad. Combina perspectiva jurídica y formación en ciberinteligencia para ayudar a empresas a gestionar riesgos y proteger su información.
 
 - [Perfil exacto indexado por la búsqueda: Germán Realpe Delgado; especialización en derecho informático y ciberseguridad y formación en ciberinteligencia. La apertura directa devolvió HTTP 999.](https://co.linkedin.com/in/germrealpe)
 - [Página corporativa: publicación identifica a Germán Realpe Delgado como su CEO; describe su plataforma Ciberseguridad Simple y su trabajo en riesgos, información y cumplimiento. Logo de la empresa recuperado del og:image de esta página.](https://co.linkedin.com/company/cloudseguro)
@@ -287,7 +287,7 @@ CEO y cofundador de Cloud Seguro. Abogado especializado en derecho informático 
 **Verificación y límites**
 
 - Verificado el 2026-09-13 contra el perfil exacto indexado y fuentes corporativas actuales. CEO confirmado por la propia empresa; cofundador corroborado en P4S.
-- Bio de 33 palabras. Los temas son una síntesis editorial de su actividad y conocimientos públicos, no preferencias declaradas.
+- Los temas son una síntesis editorial de su actividad y conocimientos públicos, no preferencias declaradas.
 - Foto real publicada por P4S en su perfil nominal; se conserva el original de 270 x 270 px. No se utilizó generación de imagen ni token de retrato.
 - Logo oficial de LinkedIn inspeccionado visualmente y coincidente con el del sitio Cloud Seguro. Su resolución es 200 x 200 px.
 - La foto de P4S data del archivo de 2022; la identidad está explícitamente atribuida en la página. No se afirma que sea su foto de LinkedIn actual.
@@ -296,7 +296,7 @@ CEO y cofundador de Cloud Seguro. Abogado especializado en derecho informático 
 
 Head of Marketing · Torre.ai
 
-Lidera el marketing global de Torre.ai, con foco en crecimiento y expansión en Latinoamérica y Estados Unidos. Su trayectoria combina analítica de datos, estrategia de marca y campañas para una red de empleo impulsada por IA.
+Lidera el marketing global de Torre.ai en Latinoamérica y Estados Unidos. Combina analítica de datos, estrategia de marca y campañas para impulsar una red de empleo con inteligencia artificial.
 
 - [Perfil exacto leído con sesión abierta de Firefox el 13 de septiembre de 2026. Nombre visible Juan Pablo Rodriguez Montoya y titular Head of Marketing at Torre.ai. Retrato visto y contrastado con la foto pública de Torre.](https://www.linkedin.com/in/jprodmo/)
 - [Perfil profesional público: Head of Marketing at Torre.ai; lidera marketing global, crecimiento y expansión en Latam y Estados Unidos; marca, estrategia y campañas. Trayectoria previa en Marketing Analytics y Core Metrics Analytics.](https://torre.ai/jprodmo)
@@ -310,5 +310,76 @@ Lidera el marketing global de Torre.ai, con foco en crecimiento y expansión en 
 - Se conserva la ortografía Rodriguez sin tilde que usa el perfil.
 - La página de Torre incluye entradas actuales duplicadas Head of Digital Marketing y Head of Marketing; se adopta Head of Marketing por ser el titular visible actual tanto en LinkedIn como en el encabezado de Torre. No se publica fecha de inicio.
 - Los temas son una síntesis editorial del trabajo descrito, no citas ni declaraciones de intereses personales.
-- Bio de 36 palabras. No se incluyeron cifras de escala ni contacto privado.
+- No se incluyeron cifras de escala ni contacto privado.
 - La pestaña temporal de Firefox fue cerrada al terminar; pestaña original preservada.
+
+## Logos de trayectoria — actualización editorial
+Revisión del 13 de septiembre de 2026. Las 18 minibios se nivelaron a 175–194 caracteres (24–29 palabras). La empresa actual conserva su posición junto al cargo; se añaden hasta dos logos de trayectoria con una relación visible. Las tarjetas comparten filas en escritorio sin recortar el texto.
+### Alexander Torrenegra
+- **Shark Tank · Exinversionista**. [Fuente del vínculo](https://www.torrenegra.com/es/alexander). Página oficial: inversionista en Shark Tank Colombia y México entre 2017 y 2024. Su página personal me.torrenegra.com también se presenta como Rehabilitated Shark Tank investor.
+  - Activo local: `/images/affiliations/shark-tank.png`. Origen: /Users/alanarguello/Downloads/consulting_website/public/images/logos/hosts/shark-tank.png.
+- **World Economic Forum · Young Global Leader**. [Fuente del vínculo](https://www3.weforum.org/docs/Media/AM16/AM16_YGL_and_YGL_Alumni.pdf). Documento institucional World Economic Forum Annual Meeting 2016: perfiles de Young Global Leaders e YGL Alumni incluye a Alexander; la web propia fecha el reconocimiento en 2015.
+  - Activo local: `/images/affiliations/world-economic-forum.png`. Origen: /Users/alanarguello/Downloads/consulting_website/public/wef.png.
+### Tania Zapata
+- **Stanford University · Programa Endeavor**. [Fuente del vínculo](https://torre.ai/taniazapata). Perfil profesional propio: Endeavor Leadership Program, Business Administration and Management, Stanford University, febrero–abril 2014.
+  - Activo local: `/images/affiliations/stanford-university.png`. Origen: /Users/alanarguello/Downloads/consulting_website/public/images/logos/hosts/stanford.png.
+- **Endeavor · Emprendedora**. [Fuente del vínculo](https://romania.endeavor.org/women-of-endeavor-6-inspiring-stories-from-our-global-network/). Artículo oficial de Endeavor: Tania fue seleccionada Endeavor Entrepreneur en 2013. Directorio colombiano también la lista en Bunny Studio.
+  - Activo local: `/images/affiliations/endeavor.svg`. Origen: /Users/alanarguello/Downloads/consulting_website/public/images/logos/hosts/endeavor.svg.
+### Alan Arguello
+- **Georgia Tech · MSc en curso**. [Fuente del vínculo](https://www.alanarguello.me/about). Web personal: Master’s Degree, Computer Science, 2026–2028; Current MSc program.
+  - Activo local: `/images/affiliations/georgia-tech.png`. Origen: /Users/alanarguello/Downloads/consulting_website/public/images/logos/hosts/georgia.png.
+- **Platanus Ventures · Trendi · aceleración**. [Fuente del vínculo](https://www.alanarguello.me/about). Cofundador de Trendi, diciembre 2021–febrero 2023; startup financiada y acelerada por Platanus. Educación lista Founder PV22-1, 2022.
+  - Activo local: `/images/affiliations/platanus-ventures.png`. Origen: /Users/alanarguello/Downloads/consulting_website/public/images/logos/hosts/platanus.png.
+### Santy Bevilacqua
+Se conserva el logo actual. No se añadió una segunda marca de relevancia suficiente y con vínculo inequívoco respaldado por las fuentes consultadas.
+### Duvan Salcedo
+- **Y Combinator · Domu · S24**. [Fuente del vínculo](https://www.ycombinator.com/companies/domu-technology-inc). Directorio oficial de YC incluye Domu Technology Inc., Summer 2024. Los founders listados son Camila Zancanella y Nick Diaz, no Duvan.
+  - Activo local: `/images/affiliations/y-combinator.svg`. Origen: /Users/alanarguello/Downloads/consulting_website/public/images/logos/hosts/ycombinator.svg.
+- **Dapta · Equipo fundador**. [Fuente del vínculo](https://www.torrenegra.com/es/retreat). Página oficial del retiro afirma founding team en Dapta y Kill B. Evento organizado por Dapta identifica a Duvan como Head of Integrations: https://luma.com/rr0mxqyh .
+  - Activo local: `/images/affiliations/dapta.png`. Origen: /Users/alanarguello/Downloads/consulting_website/public/images/logos/hosts/dapta.png.
+### Romel Palomino
+- **Rappi · Ex VP de ingeniería**. [Fuente del vínculo](https://mx.linkedin.com/in/alejandroo8a). Recomendación firmada por Romel Palomino en perfil de Alejandro Ochoa: habla de su rol de VP of Engineering at Rappi. Su propia publicación de despedida está citada en https://es.linkedin.com/posts/emedinaa_core-mobile-en-rappi-activity-7084273435534602240-6aoe .
+  - Activo local: `/images/affiliations/rappi.png`. Origen: https://about.rappi.com/images/logo.png.
+- **Bia · Ex VP de ingeniería**. [Fuente del vínculo](https://es.linkedin.com/posts/biaenergy_para-grandes-resultados-necesitamos-grandes-activity-7090755000724779008-GgeC). Anuncio corporativo histórico de Bia: Romel Palomino nuevo VP of Engineering - Activation. Otra publicación corporativa lo llama Sr. VP de Tech en 2023: https://es.linkedin.com/posts/biaenergy_c4c7us-uno-de-nuestros-aliados-tecnol%C3%B3gicos-activity-7132843720911015936-5Hvc .
+  - Activo local: `/images/affiliations/bia.png`. Origen: https://www.bia.app/assets-landing/logos/bia-logo.png.
+### Andrés Argumero
+Se conserva el logo actual. No se añadió una segunda marca de relevancia suficiente y con vínculo inequívoco respaldado por las fuentes consultadas.
+### Ismael Ramírez
+- **Udemy · Instructor**. [Fuente del vínculo](https://www.udemy.com/user/ismael-ramirez-5/). Perfil oficial de instructor: nombre, maestría Icesi y oferta educativa coinciden. Udemy no implica empleo de plantilla. El índice de septiembre 2026 mostraba 198883 estudiantes; se evita cifra exacta en bio.
+  - Activo local: `/images/affiliations/udemy.svg`. Origen: https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg.
+- **Universidad Icesi · Maestría**. [Fuente del vínculo](https://www.icesi.edu.co/estudiante-destacado/ismael-ramirez/). Ficha institucional de egresado: Maestría en Gerencia de Tecnologías de Información, 2015. SVG original extraído intacto del encabezado oficial; blanco sobre transparente.
+  - Activo local: `/images/affiliations/universidad-icesi.svg`. Origen: https://www.icesi.edu.co/estudiante-destacado/ismael-ramirez/.
+### Daniel Alberto Rodríguez
+Se conserva el logo actual. No se añadió una segunda marca de relevancia suficiente y con vínculo inequívoco respaldado por las fuentes consultadas.
+### Nicolás Poveda
+Se conserva el logo actual. No se añadió una segunda marca de relevancia suficiente y con vínculo inequívoco respaldado por las fuentes consultadas.
+### Lucho Domínguez
+- **Interactius · Líder de IA**. [Fuente del vínculo](https://www.interactius.com/identidad). Página institucional de equipo: AI Specialist. Artículos propios institucionales usan Head of Human-Centered AI.
+  - Activo local: `/images/affiliations/interactius.svg`. Origen: https://www.interactius.com/logo/interactius.svg.
+- **Imagine · Dirigió Design Doing**. [Fuente del vínculo](https://luchodominguez.medium.com/finaliza-con-%C3%A9xito-la-segunda-edici%C3%B3n-del-bootcamp-imagine-design-doing-d71fcf8cded). Histórico explícito, artículo propio junio 2019. También la página institucional https://imagine.cc/who-we-are/ lo lista como Imagine Design Doing Director. Logo amarillo oficial, requiere contraste al mostrarse en fondo claro.
+  - Activo local: `/images/affiliations/imagine.png`. Origen: https://imagine.cc/webroot/img/common/logo_imagine_yellow.png.
+### Claudia Patricia Álvarez
+- **UAB · Doctorado**. [Fuente del vínculo](https://repository.eafit.edu.co/bitstreams/14db6748-c459-4b26-8117-b29c0698d69e/download). Revista oficial EAFIT, julio-diciembre 2016, p29: doctora Internacional en Creación y Gestión de Empresas, Universidad Autónoma de Barcelona. Corroboración: https://sitesselec.colfuturo.org/seleccionados2020/comites_area.php . Asset versión 6 oficial adecuada para espacios pequeños.
+  - Activo local: `/images/affiliations/uab.svg`. Origen: https://www.uab.cat/ca/identitatcorporativa/doc/logotipuab-versio-6-verd-svg.zip.
+- **Universidad EAFIT · Exdirectora de doctorado**. [Fuente del vínculo](https://entrenos.eafit.edu.co/institucional/comunicados/comunicados2017/Comunicado%2034%20-%20Nueva%20Coordinadora%20de%20la%20Maestr%C3%ADa%20en%20Ciencias%20de%20la%20Administraci%C3%B3n.pdf). Comunicado oficial 17 julio 2017: deja coordinación de maestría y continúa dirección del doctorado en Administración y labor docente. Ficha actual EGADE confirma trayectoria previa en EAFIT. Etiqueta corta preserva diferencia histórica.
+  - Activo local: `/images/affiliations/universidad-eafit.svg`. Origen: https://www.eafit.edu.co/sites/default/files/logo_EAFIT_negro.svg.
+### Julian Montoya
+Se conserva el logo actual. No se añadió una segunda marca de relevancia suficiente y con vínculo inequívoco respaldado por las fuentes consultadas.
+### Óscar David Lozano
+- **Universidad Nacional de Colombia · Formación**. [Fuente del vínculo](https://co.linkedin.com/in/davidlozano-ceo). Educación visible en perfil exacto: Universidad Nacional de Colombia, 2012–2014. Se etiqueta Formación, sin afirmar un título que la vista pública oculta. PNG blanco: necesita fondo oscuro.
+  - Activo local: `/images/affiliations/universidad-nacional-de-colombia.png`. Origen: https://identidad.unal.edu.co/fileadmin/templates/images/escudoUnal.png.
+### Bryan Bravo
+Se conserva el logo actual. No se añadió una segunda marca de relevancia suficiente y con vínculo inequívoco respaldado por las fuentes consultadas.
+### Jorge Polo
+- **Amazon Ads · Certificación Ads**. [Fuente del vínculo](https://www.linkedin.com/in/jorgepoloa). El perfil exacto lista Amazon DSP Certification y Amazon Sponsored Ads Certification, emitidas mayo 2025 con vencimiento mayo 2027. Mostrar siempre etiqueta Certificación Ads. No es empleo ni alianza. Logo PNG oficial oscuro sobre transparencia, 4496 x 1134, extraído del src del header de advertising.amazon.com e inspeccionado visualmente.
+  - Activo local: `/images/affiliations/amazon-ads.png`. Origen: https://m.media-amazon.com/images/G/01/Amazon-Ads-Academy/Amazon_Ads_Horizontal_SquidInk.png.
+  - Las certificaciones de Amazon Ads figuran en su perfil con vigencia mayo de 2025 a mayo de 2027. No se presenta como empleado de Amazon ni se muestran marcas de clientes no revalidadas.
+### Germán Realpe
+- **ENTER.CO · Columnista**. [Fuente del vínculo](https://www.enter.co/colaboradores/). Figura en el equipo institucional. La bio de autor de ENTER.CO también lo identifica como CEO de Cloud Seguro y parte de ENTER.CO. El SVG usa letras claras; presentar sobre fondo oscuro.
+  - Activo local: `/images/affiliations/enter-co.svg`. Origen: https://www.enter.co/wp-content/uploads/2020/03/logo.svg.
+### Juan Pablo Rodriguez
+- **DiDi · Prácticas en operaciones**. [Fuente del vínculo](https://torre.ai/jprodmo). Driver Operations Intern, julio 2020–enero 2021, declarado en perfil propio. La etiqueta hace explícito el nivel de prácticas.
+  - Activo local: `/images/affiliations/didi.svg`. Origen: https://web.didiglobal.com/images/logos/didi-logo.svg.
+- **Universidad de los Andes · Ingeniería Industrial**. [Fuente del vínculo](https://torre.ai/jprodmo). Educación declarada: Ingeniería Industrial, 2017–2021. Se usa etiqueta de programa sin inventar honores ni vínculos vigentes. SVG original extraído del encabezado del sitio universitario.
+  - Activo local: `/images/affiliations/universidad-de-los-andes.svg`. Origen: https://uniandes.edu.co/.
+  - DiDi se presenta explícitamente como prácticas, según su perfil propio; no como dirección ejecutiva.
