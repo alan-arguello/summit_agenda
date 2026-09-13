@@ -57,7 +57,7 @@ Ingeniero eléctrico y de software. Ayuda a organizaciones a adoptar IA, redise�
 
 ## Santy Bevilacqua
 
-Fundador y CEO · Northe
+Líder de proyectos especiales · Gobierno de El Salvador
 
 Lidera proyectos de IA y tecnología en entornos complejos. Dirige un programa de transformación digital de salud pública en El Salvador y coordina equipos multidisciplinarios.
 
@@ -71,6 +71,11 @@ Lidera proyectos de IA y tecnología en entornos complejos. Dirige un programa d
 - La entrada de empleo principal dice Confidencial, pero su About declara explícitamente founder and CEO of Northe. No se le atribuye empleo en Google ni afiliación laboral a Torrenegra.
 - Foto real JPEG 800×800 descargada desde su foto de perfil y revisada visualmente.
 - El logo oficial de Northe es blanco y transparente; requiere fondo oscuro o tratamiento CSS para ser legible.
+- Actualización indicada expresamente por el usuario: cargo de Líder de proyectos especiales en Gobierno de El Salvador y marca Doctor SV. Se conserva Northe en el catálogo histórico de fuentes, sin mostrar su logo en la tarjeta.
+- [Logo auténtico de Doctor SV, ficha oficial en Google Play; editor Hospital Nacional El Salvador.](https://play.google.com/store/apps/details?hl=es_419&id=com.tcass.goes.doctorsv)
+- [Archivo original del logo.](https://play-lh.googleusercontent.com/utelMub97_i2VWdy3sBUa16TXjxoC-3iPdqof-FmVHxEmCKQPYiSnFWhsDHRmpnCW_bkkVJ8rykmP-_XkeFRu6g=w512-h512)
+- [Misma marca corroborada en PDF oficial del Ministerio de Salud.](https://www.salud.gob.sv/wp-content/uploads/2026/01/Medico_General_DOCTORSV_012026.pdf)
+- Archivo JPEG original 512×512 conservado sin edición en `/images/affiliations/doctor-sv.jpg`. Se encuadra mediante CSS para que la marca sea legible en la franja; sin leyenda visible.
 
 ## Duvan Salcedo
 
@@ -314,7 +319,7 @@ Lidera el marketing global de Torre.ai en Latinoamérica y Estados Unidos. Combi
 - La pestaña temporal de Firefox fue cerrada al terminar; pestaña original preservada.
 
 ## Logos de trayectoria — actualización editorial
-Revisión del 13 de septiembre de 2026. Las 18 minibios se nivelaron a 175–194 caracteres (24–29 palabras). La empresa actual se identifica como texto junto al cargo. El catálogo conserva hasta dos afiliaciones adicionales; la interfaz destaca un máximo de dos marcas por tarjeta, sin leyendas debajo de los logos. Las relaciones se conservan documentadas en los datos y en estas fuentes. La selección editorial prioriza reconocimiento y relevancia, y puede omitir el logo actual cuando la empresa ya queda identificada en el encabezado. Las tarjetas usan flujo normal, sin alturas internas compartidas ni truncamiento.
+Revisión del 13 de septiembre de 2026. Las 19 minibios se nivelaron a 175–194 caracteres (24–29 palabras). La empresa actual se identifica como texto junto al cargo. El catálogo conserva hasta dos afiliaciones adicionales; la interfaz destaca un máximo de dos marcas por tarjeta, sin leyendas debajo de los logos. Las relaciones se conservan documentadas en los datos y en estas fuentes. La selección editorial prioriza reconocimiento y relevancia, y puede omitir el logo actual cuando la empresa ya queda identificada en el encabezado. Las tarjetas usan flujo normal, sin alturas internas compartidas ni truncamiento.
 ### Alexander Torrenegra
 - **Shark Tank · Exinversionista**. [Fuente del vínculo](https://www.torrenegra.com/es/alexander). Página oficial: inversionista en Shark Tank Colombia y México entre 2017 y 2024. Su página personal me.torrenegra.com también se presenta como Rehabilitated Shark Tank investor.
   - Activo local: `/images/affiliations/shark-tank.png`. Origen: /Users/alanarguello/Downloads/consulting_website/public/images/logos/hosts/shark-tank.png.
@@ -383,3 +388,26 @@ Se conserva el logo actual. No se añadió una segunda marca de relevancia sufic
 - **Universidad de los Andes · Ingeniería Industrial**. [Fuente del vínculo](https://torre.ai/jprodmo). Educación declarada: Ingeniería Industrial, 2017–2021. Se usa etiqueta de programa sin inventar honores ni vínculos vigentes. SVG original extraído del encabezado del sitio universitario.
   - Activo local: `/images/affiliations/universidad-de-los-andes.svg`. Origen: https://uniandes.edu.co/.
   - DiDi se presenta explícitamente como prácticas, según su perfil propio; no como dirección ejecutiva.
+
+
+## Tomás Pozo
+
+Community · Supabase
+
+Ayuda a la comunidad de Supabase a crear software con IA. Desarrollador y emprendedor con 15 años de experiencia, trabajó en Latitud y hoy construye herramientas para crear apps con agentes.
+
+- [Current Community at Supabase; Software Engineer at Latitud 2022–2023; fifteen years building software](https://tomaspozo.com/work)
+- [Agent Link project creating apps with AI agents; current Supabase Community role; links exact requested LinkedIn account](https://tomaspozo.com/)
+- [Joined Supabase Community team on 2025-08-04; community assistance to AI builders](https://tomaspozo.com/articles/i-ve-joined-supabase)
+- [Personal announcement corroborates Supabase Community team](https://www.linkedin.com/posts/tomaspozo_ive-joined-supabase-tom%C3%A1s-pozo-activity-7370840559189381120-mUXK)
+- [Profile picture identity; GitHub links same personal site, Supabase and Ecuador](https://github.com/tomaspozo)
+- [Authentic portrait downloaded, 460×460 PNG](https://github.com/tomaspozo.png?size=512)
+- [Official logo kit source](https://supabase.com/brand-assets)
+- [Exact official light wordmark SVG extracted; keep green symbol and black text](https://supabase.com/brand-assets.zip)
+- [Official inline SVG full logo extracted and CSS white token resolved; root uses existing dark filter for light cards](https://latitud.com/)
+
+**Verificación y límites**
+
+- Identidad vinculada al LinkedIn exacto solicitado desde su sitio personal y GitHub. Cargo actual y trayectoria corroborados en fuentes propias el 13 de septiembre de 2026. Su paso por Latitud es histórico; no se presenta como empleo actual.
+- Retrato auténtico de GitHub y logos oficiales inspeccionados visualmente; activos locales `/images/people/tomas-pozo.png`, `/images/logos/supabase.svg` y `/images/affiliations/latitud.svg`.
+- Incorporación como speaker indicada por el usuario. Bio de 190 caracteres; misma composición y sin leyendas debajo de los logos.

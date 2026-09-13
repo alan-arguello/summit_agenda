@@ -1,6 +1,6 @@
 # Becoming AI Native · La comunidad
 
-Directorio del retiro de Torrenegra en Napa Valley. Proyecto independiente en Next.js 16, React 19 y TypeScript, con 5 speakers y 13 asistentes.
+Directorio del retiro de Torrenegra en Napa Valley. Proyecto independiente en Next.js 16, React 19 y TypeScript, con 6 speakers y 13 asistentes.
 
 ## Desarrollo
 
@@ -30,9 +30,9 @@ npm run build
 
 Para agregar una persona, duplica un registro, asigna un `slug` único y guarda sus activos en `public/images/`. `photoPosition` permite ajustar el encuadre; `photoFit: "contain"` conserva una imagen completa. `logoDark` hace legibles los logos blancos sobre el fondo claro; `logoIcon` acompaña un símbolo con el nombre de la empresa.
 
-`affiliations` conserva el catálogo de trayectoria con `name`, `label` (relación documentada, sin texto visible bajo el logo), `logo` y `logoDark` opcional. Cada tarjeta muestra como máximo dos marcas: por defecto la empresa actual y la primera afiliación. `featuredLogos` permite seleccionar otras dos por nombre, como Shark Tank y World Economic Forum para Alexander. Cada vínculo y activo se documenta en `SOURCES.md`; los archivos se guardan en `public/images/affiliations/`.
+`affiliations` conserva el catálogo de trayectoria con `name`, `label` (relación documentada, sin texto visible bajo el logo), `logo` y `logoDark` opcional. Cada tarjeta muestra como máximo dos marcas: por defecto la empresa actual y la primera afiliación. `featuredLogos` permite seleccionar otras dos por nombre, como Shark Tank y World Economic Forum para Alexander. `logoFit` y `logoPosition` permiten encuadrar marcas dentro de archivos con margen, como el icono original de Doctor SV. Cada vínculo y activo se documenta en `SOURCES.md`; los archivos se guardan en `public/images/affiliations/`.
 
-Las 18 bios tienen entre 175 y 194 caracteres y se muestran completas. Las tarjetas usan flujo normal, con retrato e identidad juntos, bio a todo el ancho y una sola franja de logos. Se muestran tres columnas desde 1180 px, dos desde 740 px y una debajo; cada ficha conserva su composición sin compartir alturas internas con las demás. Los temas se conservan como datos editoriales, sin chips en la interfaz.
+Las 19 bios tienen entre 175 y 194 caracteres y se muestran completas. Las tarjetas usan flujo normal, con retrato e identidad juntos, bio a todo el ancho y una sola franja de logos. Se muestran tres columnas desde 1180 px, dos desde 740 px y una debajo; cada ficha conserva su composición sin compartir alturas internas con las demás. Los temas se conservan como datos editoriales, sin chips en la interfaz.
 
 ## Diseño y alcance
 

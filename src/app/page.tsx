@@ -24,7 +24,7 @@ function Arrow({ diagonal = false }: { diagonal?: boolean }) {
 function PersonCard({ person, index }: { person: Person; index: number }) {
   const brands = [
     ...(person.logo
-      ? [{ name: person.company, label: "Empresa actual", logo: person.logo, logoDark: person.logoDark }]
+      ? [{ name: person.company, label: "Empresa actual", logo: person.logo, logoDark: person.logoDark, logoFit: person.logoFit, logoPosition: person.logoPosition }]
       : []),
     ...(person.affiliations ?? []),
   ];
@@ -77,8 +77,14 @@ function PersonCard({ person, index }: { person: Person; index: number }) {
         <ul className="person-brands" aria-label={`Empresas y trayectoria de ${person.name}`}>
           {featuredBrands.map((brand) => (
             <li key={brand.name}>
-              <div className={`brand-image ${brand.logoDark ? "brand-image-dark" : ""}`}>
-                <Image src={brand.logo} alt={brand.name} fill sizes="140px" />
+              <div className={`brand-image ${brand.logoDark ? "brand-image-dark" : ""} ${brand.logoFit === "cover" ? "brand-image-cover" : ""}`}>
+                <Image
+                  src={brand.logo}
+                  alt={brand.name}
+                  fill
+                  sizes="142px"
+                  style={{ objectFit: brand.logoFit ?? "contain", objectPosition: brand.logoPosition ?? "left center" }}
+                />
               </div>
             </li>
           ))}

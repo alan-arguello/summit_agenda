@@ -245,6 +245,7 @@ a:focus-visible { outline: 2px solid var(--blue); outline-offset: 4px; }
 .brand-image { height: 38px; max-width: 142px; position: relative; }
 .brand-image img { object-fit: contain; object-position: left center; }
 .brand-image-dark img { filter: brightness(0) saturate(100%); opacity: .83; }
+.brand-image-cover { overflow: hidden; border-radius: 3px; }
 .linkedin-link {
   display: flex;
   align-items: center;

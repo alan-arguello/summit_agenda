@@ -14,12 +14,16 @@ export type Person = {
   logo?: string;
   logoDark?: boolean;
   logoIcon?: boolean;
+  logoFit?: "contain" | "cover";
+  logoPosition?: string;
   featuredLogos?: string[];
   affiliations?: {
     name: string;
     label: string;
     logo: string;
     logoDark?: boolean;
+    logoFit?: "contain" | "cover";
+    logoPosition?: string;
   }[];
   category: "speaker" | "attendee";
 };

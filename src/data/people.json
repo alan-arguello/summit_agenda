@@ -93,8 +93,8 @@
   {
     "slug": "santy-bevilacqua",
     "name": "Santy Bevilacqua",
-    "role": "Fundador y CEO",
-    "company": "Northe",
+    "role": "Líder de proyectos especiales",
+    "company": "Gobierno de El Salvador",
     "bio": "Lidera proyectos de IA y tecnología en entornos complejos. Dirige un programa de transformación digital de salud pública en El Salvador y coordina equipos multidisciplinarios.",
     "topics": [
       "GovTech",
@@ -103,9 +103,24 @@
     "linkedin": "https://www.linkedin.com/in/santy-bevilacqua/",
     "category": "speaker",
     "photo": "/images/people/santy-bevilacqua.jpg",
-    "logo": "/images/logos/santy-bevilacqua.png",
-    "logoDark": true,
-    "affiliations": []
+    "affiliations": [
+      {
+        "name": "Doctor SV",
+        "label": "Proyecto de salud digital",
+        "logo": "/images/affiliations/doctor-sv.jpg",
+        "logoFit": "cover",
+        "logoPosition": "center 55%"
+      },
+      {
+        "name": "Northe",
+        "label": "Fundador y CEO",
+        "logo": "/images/logos/santy-bevilacqua.png",
+        "logoDark": true
+      }
+    ],
+    "featuredLogos": [
+      "Doctor SV"
+    ]
   },
   {
     "slug": "duvan-salcedo",
@@ -132,6 +147,30 @@
         "name": "Dapta",
         "label": "Equipo fundador",
         "logo": "/images/affiliations/dapta.png",
+        "logoDark": true
+      }
+    ]
+  },
+  {
+    "slug": "tomas-pozo",
+    "name": "Tomás Pozo",
+    "role": "Community",
+    "company": "Supabase",
+    "bio": "Ayuda a la comunidad de Supabase a crear software con IA. Desarrollador y emprendedor con 15 años de experiencia, trabajó en Latitud y hoy construye herramientas para crear apps con agentes.",
+    "topics": [
+      "Comunidad de desarrolladores",
+      "Software con agentes de IA"
+    ],
+    "linkedin": "https://www.linkedin.com/in/tomaspozo/",
+    "category": "speaker",
+    "photo": "/images/people/tomas-pozo.png",
+    "photoPosition": "center 35%",
+    "logo": "/images/logos/supabase.svg",
+    "affiliations": [
+      {
+        "name": "Latitud",
+        "label": "Ex Software Engineer",
+        "logo": "/images/affiliations/latitud.svg",
         "logoDark": true
       }
     ]
