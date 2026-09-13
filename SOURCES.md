@@ -247,3 +247,68 @@ Fundador de Dumpster Team, enfocado en SaaS y operaciones para residuos, constru
 **Verificación y límites**
 
 - Cargo actual confirmado en experiencia LinkedIn como Founder en Dumpster Team desde noviembre 2023. Se usa Fundador, no CEO del token anterior. La FOTO DE PERFIL REAL elegida por la cuenta es un panel grupal de 174x174; se conserva completa sin inventar ni recortar una identidad individual. No es un headshot. Logo descargado directamente del sitio oficial.
+
+## Jorge Polo
+
+Fundador y CEO · Saees.ai
+
+Fundador y CEO de Saees.ai, plataforma de inteligencia artificial para comercio electrónico. Trabaja en automatización e inteligencia de mercados para ayudar a marcas y vendedores a operar y crecer en Amazon, Walmart y TikTok Shop.
+
+- [El perfil público indexado identifica a Jorge como Founder & CEO of Saees.ai; consultado el 13 de septiembre de 2026.](https://www.linkedin.com/in/jorgepoloa/)
+- [Página oficial de Saees: plataforma de IA para Amazon y Walmart, automatización de investigación de productos, sourcing, logística y operación de tiendas. Origen del logo oficial descargado.](https://www.linkedin.com/company/saeesofficial)
+- [Sitio oficial indexado: inteligencia para Amazon, Walmart y TikTok Shop, análisis de mercado, automatización y optimización de listings. La recuperación directa presenta bucle de redirecciones; contenido disponible en búsqueda.](https://saees.ai/)
+- [Logo vigente servido por LinkedIn desde la página oficial de Saees, descargado e inspeccionado visualmente.](https://media.licdn.com/dms/image/v2/D4E0BAQGIvCQ7Dthm8g/company-logo_200_200/B4EZqoAiEhHgAI-/0/1763755303771/saeesofficial_logo?e=2147483647&t=fA4RIrxYjocp9dPQ0ai_4Hm_jbdFtV5M_3HAPrfMET4&v=beta)
+
+**Verificación y límites**
+
+- Perfil clasificado como asistente según la instrucción del directorio, sin atribuir condición de speaker.
+- Cargo y empresa confirmados mediante el perfil de LinkedIn público indexado; la apertura directa posterior devolvió HTTP 999.
+- El archivo local retreat-content.ts identifica a Jorge como CEO de Saees y Brandtop. Se usa únicamente Fundador y CEO de Saees.ai porque la fuente primaria pública visible sí confirma este cargo. No se incorpora CEO de Brandtop.
+- No se reutilizan afirmaciones locales sobre clientes Henkel, Avon, Omnilife, Hasbro y Jelly Belly por no haberse revalidado en fuentes primarias.
+- La bio tiene 35 palabras; los temas resumen las áreas de actividad documentadas de la empresa que lidera.
+- Foto real reutilizada del asset aprobado /Users/alanarguello/Downloads/consulting_website/public/images/speakers/jorge-polo.webp (1000 x 1163), inspeccionada visualmente: rostro nítido y frontal, gorra negra, fondo azul/púrpura.
+- Logo principal 200 x 200 descargado de la página oficial de Saees en LinkedIn e inspeccionado visualmente. El isotipo coincide con el wordmark local.
+- También se conserva saees-wordmark.png, asset local ya inspeccionado; contiene letras blancas y necesita fondo oscuro para buena legibilidad.
+
+## Germán Realpe Delgado
+
+CEO y cofundador · Cloud Seguro
+
+CEO y cofundador de Cloud Seguro. Abogado especializado en derecho informático y ciberseguridad, con formación en ciberinteligencia. Impulsa soluciones que ayudan a las empresas a gestionar riesgos, proteger información y fortalecer su cumplimiento.
+
+- [Perfil exacto indexado por la búsqueda: Germán Realpe Delgado; especialización en derecho informático y ciberseguridad y formación en ciberinteligencia. La apertura directa devolvió HTTP 999.](https://co.linkedin.com/in/germrealpe)
+- [Página corporativa: publicación identifica a Germán Realpe Delgado como su CEO; describe su plataforma Ciberseguridad Simple y su trabajo en riesgos, información y cumplimiento. Logo de la empresa recuperado del og:image de esta página.](https://co.linkedin.com/company/cloudseguro)
+- [Perfil nominal: CEO CO-founder en Cloud Seguro y retrato real vinculado directamente a su ficha.](https://www.p4s.co/german-realpe)
+- [Foto original del perfil de Germán Realpe en P4S, descargada sin modificación. 270 x 270 px; inspeccionada visualmente.](https://p4s.co/photo/p510-2022-03-29-16-09-15.jpg)
+- [Biografía de ponente IntelCon 2023: abogado, especialistas en derecho informático y seguridad de la información, máster en ciberinteligencia y gerente de Cloud Seguro.](https://www.ginseg.com/intelcon/german-realpe/)
+- [Sitio corporativo: servicios de ciberseguridad, gestión de riesgos, privacidad, ISO 27001 y ciberinteligencia. El logo del sitio coincide con el logo de LinkedIn.](https://www.cloudseguro.co/)
+- [Asset oficial del perfil corporativo Cloud Seguro en LinkedIn, 200 x 200 px, descargado sin modificación e inspeccionado visualmente.](https://media.licdn.com/dms/image/v2/C4E0BAQEI-3jWYT8tKw/company-logo_200_200/company-logo_200_200/0/1630564182464/cloudseguro_logo?e=2147483647&v=beta&t=eNuxkDmtYZR1Dwf8MfILcgqrUtgqUbuXi9-AIpm4xcg)
+
+**Verificación y límites**
+
+- Verificado el 2026-09-13 contra el perfil exacto indexado y fuentes corporativas actuales. CEO confirmado por la propia empresa; cofundador corroborado en P4S.
+- Bio de 33 palabras. Los temas son una síntesis editorial de su actividad y conocimientos públicos, no preferencias declaradas.
+- Foto real publicada por P4S en su perfil nominal; se conserva el original de 270 x 270 px. No se utilizó generación de imagen ni token de retrato.
+- Logo oficial de LinkedIn inspeccionado visualmente y coincidente con el del sitio Cloud Seguro. Su resolución es 200 x 200 px.
+- La foto de P4S data del archivo de 2022; la identidad está explícitamente atribuida en la página. No se afirma que sea su foto de LinkedIn actual.
+
+## Juan Pablo Rodriguez Montoya
+
+Head of Marketing · Torre.ai
+
+Lidera el marketing global de Torre.ai, con foco en crecimiento y expansión en Latinoamérica y Estados Unidos. Su trayectoria combina analítica de datos, estrategia de marca y campañas para una red de empleo impulsada por IA.
+
+- [Perfil exacto leído con sesión abierta de Firefox el 13 de septiembre de 2026. Nombre visible Juan Pablo Rodriguez Montoya y titular Head of Marketing at Torre.ai. Retrato visto y contrastado con la foto pública de Torre.](https://www.linkedin.com/in/jprodmo/)
+- [Perfil profesional público: Head of Marketing at Torre.ai; lidera marketing global, crecimiento y expansión en Latam y Estados Unidos; marca, estrategia y campañas. Trayectoria previa en Marketing Analytics y Core Metrics Analytics.](https://torre.ai/jprodmo)
+- [Retrato real original servido por Torre; URL derivada de data-url de img con alt Juan Pablo Rodriguez Montoya en su perfil público. Archivo 500 x 500, inspeccionado visualmente.](https://res.cloudinary.com/torre-technologies-co/image/upload/v1739661978/origin/starrgate/users/profile_b2a265338183ee4d6a1fa595956ed6d1bb37cc6b.jpg)
+- [Sitio oficial cuya metadata JSON-LD EmploymentAgency identifica como logo oficial el archivo descargado.](https://torre.ai/)
+- [Logo oficial enlazado en el JSON-LD del sitio Torre.ai; PNG horizontal de 500 x 106, inspeccionado visualmente.](https://res.cloudinary.com/torre-technologies-co/image/upload/v1764177473/dev/bio/profile/torre.ai.png)
+
+**Verificación y límites**
+
+- Identidad desambiguada por URL exacta de LinkedIn, nombre completo, titular actual y misma fotografía en torre.ai/jprodmo.
+- Se conserva la ortografía Rodriguez sin tilde que usa el perfil.
+- La página de Torre incluye entradas actuales duplicadas Head of Digital Marketing y Head of Marketing; se adopta Head of Marketing por ser el titular visible actual tanto en LinkedIn como en el encabezado de Torre. No se publica fecha de inicio.
+- Los temas son una síntesis editorial del trabajo descrito, no citas ni declaraciones de intereses personales.
+- Bio de 36 palabras. No se incluyeron cifras de escala ni contacto privado.
+- La pestaña temporal de Firefox fue cerrada al terminar; pestaña original preservada.

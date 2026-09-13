@@ -187,5 +187,43 @@
     "logo": "/images/logos/bryan-bravo.png",
     "logoIcon": true,
     "photoFit": "contain"
+  },
+  {
+    "slug": "jorge-polo",
+    "name": "Jorge Polo",
+    "role": "Fundador y CEO",
+    "company": "Saees.ai",
+    "bio": "Fundador y CEO de Saees.ai, plataforma de inteligencia artificial para comercio electrónico. Trabaja en automatización e inteligencia de mercados para ayudar a marcas y vendedores a operar y crecer en Amazon, Walmart y TikTok Shop.",
+    "topics": ["IA para e-commerce", "Inteligencia de marketplaces"],
+    "linkedin": "https://www.linkedin.com/in/jorgepoloa/",
+    "category": "attendee",
+    "photo": "/images/people/jorge-polo.webp",
+    "logo": "/images/logos/jorge-polo.jpg",
+    "logoIcon": true
+  },
+  {
+    "slug": "german-realpe",
+    "name": "Germán Realpe",
+    "role": "CEO y cofundador",
+    "company": "Cloud Seguro",
+    "bio": "CEO y cofundador de Cloud Seguro. Abogado especializado en derecho informático y ciberseguridad, con formación en ciberinteligencia. Impulsa soluciones que ayudan a las empresas a gestionar riesgos, proteger información y fortalecer su cumplimiento.",
+    "topics": ["Ciberseguridad y riesgos", "Privacidad y cumplimiento"],
+    "linkedin": "https://www.linkedin.com/in/germrealpe/",
+    "category": "attendee",
+    "photo": "/images/people/german-realpe.jpg",
+    "logo": "/images/logos/german-realpe.jpg",
+    "logoIcon": true
+  },
+  {
+    "slug": "juan-pablo-rodriguez-montoya",
+    "name": "Juan Pablo Rodriguez",
+    "role": "Head of Marketing",
+    "company": "Torre.ai",
+    "bio": "Lidera el marketing global de Torre.ai, con foco en crecimiento y expansión en Latinoamérica y Estados Unidos. Su trayectoria combina analítica de datos, estrategia de marca y campañas para una red de empleo impulsada por IA.",
+    "topics": ["Marketing y crecimiento", "Reclutamiento con IA"],
+    "linkedin": "https://www.linkedin.com/in/jprodmo/",
+    "category": "attendee",
+    "photo": "/images/people/juan-pablo-rodriguez-montoya.jpg",
+    "logo": "/images/logos/juan-pablo-rodriguez-montoya.png"
   }
 ]

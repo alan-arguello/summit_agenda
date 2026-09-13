@@ -932,3 +932,220 @@ html {
     scroll-padding-top: 62px;
   }
 }
+/* Portrait-led rows give biographies a comfortable line length on phones. */
+@media (max-width: 600px) {
+  :root {
+    --gutter: 24px;
+  }
+  .site-header {
+    height: 78px;
+  }
+  .retreat-link {
+    width: 44px;
+    height: 44px;
+    flex-shrink: 0;
+  }
+  .hero-inner {
+    padding-block: 28px;
+  }
+  .hero-label {
+    margin-bottom: 20px;
+  }
+  .hero-copy h1 {
+    font-size: clamp(52px, 14vw, 68px);
+  }
+  .hero-description {
+    font-size: 16px;
+    margin-top: 20px;
+    max-width: 350px;
+  }
+  .hero-bottom {
+    font-size: 12px;
+  }
+  .directory-nav nav {
+    width: 100%;
+    justify-content: space-between;
+    gap: 24px;
+  }
+  .directory-nav nav a {
+    font-size: 16px;
+  }
+  .section-heading {
+    margin-bottom: 28px;
+  }
+  .section-pretitle {
+    font-size: 13px;
+  }
+  .people-grid {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 32px;
+  }
+  .person-card {
+    display: grid;
+    grid-template-columns: 112px minmax(0, 1fr);
+    column-gap: 20px;
+    row-gap: 0;
+    padding-bottom: 28px;
+    border-bottom: 1px solid var(--line);
+    align-items: start;
+  }
+  .portrait-link {
+    grid-column: 1;
+    grid-row: 1 / 4;
+    align-self: start;
+  }
+  .portrait-frame,
+  .attendee .portrait-frame {
+    height: 142px;
+    padding-bottom: 0;
+  }
+  .portrait-arrow {
+    width: 26px;
+    height: 26px;
+    right: 7px;
+    bottom: 7px;
+  }
+  .portrait-arrow svg {
+    width: 14px;
+  }
+  .person-info {
+    display: contents;
+  }
+  .person-info h3 {
+    grid-column: 2;
+    grid-row: 1;
+    min-height: 0;
+    margin: 0 0 8px;
+    font-size: 24px;
+    line-height: 1.15;
+    letter-spacing: -0.6px;
+    overflow-wrap: anywhere;
+  }
+  .person-role {
+    grid-column: 2;
+    grid-row: 2;
+    min-height: 0;
+    margin: 0;
+    font-size: 14px;
+    line-height: 1.45;
+  }
+  .company-line {
+    grid-column: 2;
+    grid-row: 3;
+    min-height: 28px;
+    margin: 12px 0 0;
+    font-size: 13px;
+    gap: 8px;
+    flex-wrap: wrap;
+    align-self: end;
+  }
+  .company-logo {
+    height: 25px;
+    max-width: 132px;
+  }
+  .logo-icon .company-logo {
+    width: 25px;
+    height: auto;
+  }
+  .logo-icon span {
+    max-width: none;
+    flex: 1;
+    min-width: 0;
+  }
+  .company-line:has(.company-logo) span {
+    border: 0;
+    padding: 0;
+  }
+  .person-bio {
+    grid-column: 1 / -1;
+    grid-row: 4;
+    margin-top: 20px;
+    font-size: 16px;
+    line-height: 1.6;
+  }
+  .topics {
+    grid-column: 1 / -1;
+    grid-row: 5;
+    margin: 16px 0 10px;
+    gap: 6px;
+  }
+  .topics span {
+    font-size: 12px;
+    padding: 3px 8px;
+  }
+  .linkedin-link {
+    grid-column: 1 / -1;
+    grid-row: 6;
+    border: 0;
+    margin: 0;
+    padding: 4px 0;
+    min-height: 44px;
+    font-size: 14px;
+    gap: 8px;
+  }
+  .linkedin-link svg {
+    width: 17px;
+  }
+  .linkedin-icon {
+    flex-shrink: 0;
+  }
+  .attendee-section {
+    margin-top: 14px;
+    border-top: 0;
+    padding-top: 20px;
+    padding-bottom: 40px;
+  }
+  .person-card:last-child {
+    border-bottom: 0;
+    padding-bottom: 0;
+  }
+  .closing-note {
+    padding-block: 30px;
+  }
+}
+@media (max-width: 360px) {
+  :root {
+    --gutter: 20px;
+  }
+  .brand {
+    gap: 10px;
+  }
+  .brand-wordmark {
+    font-size: 23px;
+  }
+  .brand-event {
+    font-size: 11px;
+  }
+  .person-card {
+    grid-template-columns: 96px minmax(0, 1fr);
+    column-gap: 16px;
+  }
+  .portrait-frame,
+  .attendee .portrait-frame {
+    height: 128px;
+  }
+  .person-info h3 {
+    font-size: 22px;
+  }
+  .company-logo {
+    max-width: 122px;
+  }
+}
+@media (hover: none) {
+  .portrait-arrow {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+/* Center a final row of three without changing card widths or reading order. */
+@media (min-width: 1201px) {
+  .attendee-grid .person-card:nth-last-child(3):nth-child(5n + 1) {
+    grid-column: 2;
+  }
+}
+@media (min-width: 701px) and (max-width: 1200px) {
+  .attendee-grid .person-card:last-child:nth-child(3n + 1) {
+    grid-column: 2;
+  }
+}

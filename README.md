@@ -1,6 +1,6 @@
 # Becoming AI Native · La comunidad
 
-Directorio del retiro de Torrenegra en Napa Valley. Proyecto independiente en Next.js 16, React 19 y TypeScript, con 5 speakers y 10 asistentes.
+Directorio del retiro de Torrenegra en Napa Valley. Proyecto independiente en Next.js 16, React 19 y TypeScript, con 5 speakers y 13 asistentes.
 
 ## Desarrollo
 
@@ -32,7 +32,7 @@ Para agregar una persona, duplica un registro, asigna un `slug` único y guarda 
 
 ## Diseño y alcance
 
-El diseño reutiliza Switzer, verde bosque, marfil y el paisaje tramado de `/retreat` del proyecto `consulting_website`. Incluye navegación por sección, retratos, biografías visibles y enlaces a LinkedIn, con foco de teclado, adaptación móvil y respeto de la preferencia de movimiento reducido.
+El diseño reutiliza Switzer, verde bosque, marfil y el paisaje tramado de `/retreat` del proyecto `consulting_website`. Incluye navegación por sección, retratos, biografías visibles y enlaces a LinkedIn, con foco de teclado, tarjetas amplias en móvil y respeto de la preferencia de movimiento reducido.
 
 Esta primera entrega es un directorio. Agenda, logística, recursos y administración de datos pueden incorporarse sobre esta base. Los datos se mantienen en el archivo JSON; no hay base de datos ni formulario de edición. La publicación en Sites se mantiene privada. La etiqueta `noindex` solicita no indexar la página y no sustituye los controles de acceso del alojamiento.
 
