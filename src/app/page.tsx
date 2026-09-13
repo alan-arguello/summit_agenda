@@ -80,7 +80,6 @@ function PersonCard({ person, index }: { person: Person; index: number }) {
               <div className={`brand-image ${brand.logoDark ? "brand-image-dark" : ""}`}>
                 <Image src={brand.logo} alt={brand.name} fill sizes="140px" />
               </div>
-              <span>{brand.label}</span>
             </li>
           ))}
         </ul>

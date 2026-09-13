@@ -242,10 +242,9 @@ a:focus-visible { outline: 2px solid var(--blue); outline-offset: 4px; }
   border-top: 1px solid var(--line);
 }
 .person-brands li { min-width: 0; }
-.brand-image { height: 38px; max-width: 142px; position: relative; margin-bottom: 10px; }
+.brand-image { height: 38px; max-width: 142px; position: relative; }
 .brand-image img { object-fit: contain; object-position: left center; }
 .brand-image-dark img { filter: brightness(0) saturate(100%); opacity: .83; }
-.person-brands li > span { display: block; min-height: 34px; font-size: 12px; line-height: 1.4; color: var(--muted); text-wrap: pretty; }
 .linkedin-link {
   display: flex;
   align-items: center;
