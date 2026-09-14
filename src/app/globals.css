@@ -245,7 +245,6 @@ button { font: inherit; }
   gap: 20px;
   align-items: center;
 }
-.portrait-link { display: block; border-radius: 5px; }
 .portrait-frame {
   position: relative;
   width: 104px;
@@ -254,12 +253,31 @@ button { font: inherit; }
   border-radius: 5px;
   background: #dce3d8;
 }
-.portrait-frame img {
-  filter: saturate(.7);
-  transition: filter .25s ease;
+.portrait-toggle {
+  display: block;
+  padding: 0;
+  border: 0;
+  cursor: pointer;
+  isolation: isolate;
+  -webkit-tap-highlight-color: transparent;
+  touch-action: manipulation;
 }
-.speaker .portrait-frame img { filter: grayscale(1); }
-.portrait-link:hover img, .portrait-link:focus-visible img { filter: none; }
+.portrait-toggle:disabled { cursor: default; }
+.portrait-toggle:focus-visible { outline: 2px solid var(--forest); outline-offset: 4px; }
+.portrait-ascii {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity .28s ease;
+}
+.portrait-toggle[data-ascii-ready="true"] .portrait-ascii { opacity: 1; }
+.portrait-toggle[data-show-photo="true"] .portrait-ascii { opacity: 0; }
+@media (hover: hover) and (pointer: fine) {
+  .portrait-toggle:hover .portrait-ascii { opacity: 0; }
+}
 .portrait-initials {
   display: grid;
   place-items: center;

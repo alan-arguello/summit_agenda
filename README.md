@@ -36,6 +36,8 @@ Las 19 bios tienen entre 175 y 194 caracteres y se muestran completas. Las tarje
 
 ## Diseño y alcance
 
+Los retratos de speakers y asistentes usan un efecto ASCII en canvas, calculado a partir de la luminancia de cada foto y con el mismo encuadre que el original. El cursor revela la foto; un toque, clic, Enter o espacio permite alternar las dos vistas. Los enlaces a LinkedIn siguen en el nombre y el pie de la tarjeta. Se dibuja al acercarse al viewport y al cambiar de tamaño, sin animación continua; se conserva la foto original si canvas no está disponible y se respeta la preferencia de movimiento reducido. Los avatares pequeños de la agenda conservan la fotografía.
+
 El diseño reutiliza Switzer, verde bosque, marfil y el paisaje tramado de `/retreat` del proyecto `consulting_website`. Incluye navegación por sección, retratos, biografías visibles y enlaces a LinkedIn, con foco de teclado, tarjetas amplias en móvil y respeto de la preferencia de movimiento reducido.
 
 Incluye agenda, amenidades, servicios incluidos y directorio. La sección de amenidades reúne alberca, mini-gym y estacionamiento para 20 autos; los incluidos son snacks, bebidas y comidas del programa, según lo indicado por el organizador. Los datos se mantienen en archivos locales; no hay base de datos ni formulario de edición. La publicación en Sites se mantiene privada. La etiqueta `noindex` solicita no indexar la página y no sustituye los controles de acceso del alojamiento.

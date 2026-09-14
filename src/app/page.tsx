@@ -1,6 +1,7 @@
 import Image from "next/image";
 import { people, type Person } from "@/lib/people";
 import Agenda from "./agenda";
+import AsciiPortrait from "./ascii-portrait";
 
 function Arrow({ diagonal = false }: { diagonal?: boolean }) {
   return (
@@ -36,33 +37,21 @@ function PersonCard({ person, index }: { person: Person; index: number }) {
   return (
     <article id={person.slug} className={`person-card ${person.category}`}>
       <div className="person-intro">
-        <a
-          href={person.linkedin}
-          target="_blank"
-          rel="noopener noreferrer"
-          className="portrait-link"
-          aria-label={`Ver a ${person.name} en LinkedIn (abre otra pestaña)`}
-        >
+        {person.photo ? (
+          <AsciiPortrait
+            src={person.photo}
+            name={person.name}
+            position={person.photoPosition}
+            fit={person.photoFit}
+            preload={person.category === "speaker" && index < 3}
+          />
+        ) : (
           <div className="portrait-frame">
-            {person.photo ? (
-              <Image
-                src={person.photo}
-                alt={person.name}
-                fill
-                sizes="(max-width: 420px) 88px, 104px"
-                preload={person.category === "speaker" && index < 3}
-                style={{
-                  objectPosition: person.photoPosition ?? "center 35%",
-                  objectFit: person.photoFit ?? "cover",
-                }}
-              />
-            ) : (
               <span className="portrait-initials">
                 {person.name.split(" ").map((part) => part[0]).slice(0, 2).join("")}
               </span>
-            )}
           </div>
-        </a>
+        )}
         <div className="person-heading">
           <h3>
             <a href={person.linkedin} target="_blank" rel="noopener noreferrer">
