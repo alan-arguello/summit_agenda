@@ -276,7 +276,7 @@ button { font: inherit; }
 .portrait-toggle[data-ascii-ready="true"] .portrait-ascii { opacity: 1; }
 .portrait-toggle[data-show-photo="true"] .portrait-ascii { opacity: 0; }
 @media (hover: hover) and (pointer: fine) {
-  .portrait-toggle:hover .portrait-ascii { opacity: 0; }
+  .person-card:hover .portrait-ascii { opacity: 0; }
 }
 .portrait-initials {
   display: grid;

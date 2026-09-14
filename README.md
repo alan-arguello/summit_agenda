@@ -36,7 +36,7 @@ Las 19 bios tienen entre 175 y 194 caracteres y se muestran completas. Las tarje
 
 ## Diseño y alcance
 
-Los retratos de speakers y asistentes usan un efecto ASCII en canvas, calculado a partir de la luminancia de cada foto y con el mismo encuadre que el original. El cursor revela la foto; un toque, clic, Enter o espacio permite alternar las dos vistas. Los enlaces a LinkedIn siguen en el nombre y el pie de la tarjeta. Se dibuja al acercarse al viewport y al cambiar de tamaño, sin animación continua; se conserva la foto original si canvas no está disponible y se respeta la preferencia de movimiento reducido. Los avatares pequeños de la agenda conservan la fotografía.
+Los retratos de speakers y asistentes usan un efecto ASCII en canvas, calculado a partir de la luminancia de cada foto y con el mismo encuadre que el original. El cursor sobre cualquier parte de la tarjeta revela la foto; un toque o clic en el retrato, Enter o espacio permite alternar las dos vistas. Los enlaces a LinkedIn siguen en el nombre y el pie de la tarjeta. Se dibuja al acercarse al viewport y al cambiar de tamaño, sin animación continua; se conserva la foto original si canvas no está disponible y se respeta la preferencia de movimiento reducido. Los avatares pequeños de la agenda conservan la fotografía.
 
 El diseño reutiliza Switzer, verde bosque, marfil y el paisaje tramado de `/retreat` del proyecto `consulting_website`. Incluye navegación por sección, retratos, biografías visibles y enlaces a LinkedIn, con foco de teclado, tarjetas amplias en móvil y respeto de la preferencia de movimiento reducido.
 
@@ -44,7 +44,7 @@ Incluye agenda, amenidades, servicios incluidos y directorio. La sección de ame
 
 ## Vista previa al compartir
 
-`public/og.png` es la portada de Becoming AI Native. `src/app/layout.tsx` configura Open Graph y X con imagen, título, descripción y texto alternativo. `metadataBase` utiliza el dominio actual de Sites; actualízalo si el sitio cambia de dominio. La portada y la página necesitan ser accesibles al servicio que genera la vista previa: los controles de acceso privados del alojamiento pueden impedir que servicios externos la obtengan.
+`public/og.png` conserva la portada original de Becoming AI Native. `public/og-social.jpg` es la misma imagen exportada a 1200 × 630 y 192 KB para compartir. `src/app/layout.tsx` configura Open Graph y X con esta versión ligera, título, descripción y texto alternativo. `metadataBase` utiliza el dominio actual de Sites; actualízalo si el sitio cambia de dominio. La portada y la página necesitan ser accesibles al servicio que genera la vista previa: los controles de acceso privados del alojamiento pueden impedir que servicios externos la obtengan. Las preferencias de vista previa de quien comparte y la caché de cada plataforma también pueden afectar su aparición.
 
 ## Editar la agenda
 

@@ -16,9 +16,10 @@ export const metadata: Metadata = {
     title: "Becoming AI Native",
     description,
     images: [{
-      url: "/og.png",
-      width: 1731,
-      height: 909,
+      url: "/og-social.jpg",
+      width: 1200,
+      height: 630,
+      type: "image/jpeg",
       alt: "Becoming AI Native sobre un paisaje de Napa en ASCII y verde profundo.",
     }],
   },
@@ -27,7 +28,7 @@ export const metadata: Metadata = {
     title: "Becoming AI Native",
     description,
     images: [{
-      url: "/og.png",
+      url: "/og-social.jpg",
       alt: "Becoming AI Native sobre un paisaje de Napa en ASCII y verde profundo.",
     }],
   },
