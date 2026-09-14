@@ -432,3 +432,18 @@ Fuentes y decisiones sobre el contexto profesional:
 ## Amenidades e incluidos
 
 Información proporcionada directamente por el organizador: alberca, mini-gym y estacionamiento para 20 autos; snacks, bebidas y comidas incluidos. La interfaz aclara comidas del programa, sin prometer cenas, hospedaje, equipamiento del gimnasio, alcohol u otros servicios no especificados. Se presenta después de la agenda y antes del directorio, con enlace propio desde la navegación.
+
+
+## Samuel Santa · incorporación del 14 de septiembre de 2026
+
+AI Product Designer · Nexor. Asistente indicado por el organizador.
+
+- [LinkedIn exacto solicitado](https://www.linkedin.com/in/devsanta/). El índice público lo identifica como Samuel Santa y lo vincula con Supersonik. La navegación directa solicita iniciar sesión; no se presenta el perfil completo como inspeccionado.
+- [Makers Fellowship](https://www.makers.ngo/) publica su retrato con nombre y un enlace al LinkedIn exacto. También lo identifica como START Fellowship Fellow '25 / START Global Fellow. [Foto original](https://www.makers.ngo/images/samuel.jpeg), JPEG de 626 × 626, conservada en /images/people/samuel-santa.jpeg.
+- [START Global: cierre de START Fellowship Accelerator Batch 5](https://www.linkedin.com/posts/startglobal_this-was-start-fellowship-accelerator-batch-activity-7353786268842885121-kRpR) incluye a Samuel Santa entre sus fellows.
+- Los cargos AI Product Designer en Nexor y Product Lead en Supersonik son datos actuales aportados por el organizador. No se inventan fechas ni se infiere cuándo dejó otro cargo.
+- [Nexor](https://www.getnexor.ai/en) y su [perfil corporativo](https://www.linkedin.com/company/getnexor.ai/) identifican su selección en a16z Speedrun. Se usa el respaldo indicado por el organizador y corroborado por esa participación; no se afirma monto o ronda.
+- [Supersonik: anuncio de ronda semilla](https://www.supersonik.ai/blog/seed-round-announcement), 3 de septiembre de 2025, confirma US$5M liderados por Andreessen Horowitz. El respaldo de a16z corresponde a las empresas, no a una relación laboral personal de Samuel con el fondo.
+- Logo Nexor original: https://www.getnexor.ai/assets/nexor-logo-dark-SV11tTJJ.svg, referenciado desde su web oficial. Activo local /images/logos/nexor.svg.
+- Logo Supersonik original: https://www.supersonik.ai/supersonik-wordmark-dark.svg, publicado en su homepage. Activo local /images/affiliations/supersonik.svg. Se conserva la geometría original y se cambia únicamente preserveAspectRatio de none a xMinYMid meet para evitar que el contenedor de la tarjeta lo estire.
+- Bio de 192 caracteres, dos logos oficiales y el mismo retrato ASCII con revelado desde toda la tarjeta. Sin leyendas debajo de las marcas; START Global Fellow queda en la bio.

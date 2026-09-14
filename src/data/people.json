@@ -468,5 +468,28 @@
         "logo": "/images/affiliations/universidad-de-los-andes.svg"
       }
     ]
+  },
+  {
+    "slug": "samuel-santa",
+    "name": "Samuel Santa",
+    "role": "AI Product Designer",
+    "company": "Nexor",
+    "bio": "Diseña productos de IA en Nexor y lidera producto en Supersonik, ambas respaldadas por a16z. START Global Fellow, conecta diseño y tecnología para crear experiencias centradas en las personas.",
+    "topics": [
+      "Diseño de productos de IA",
+      "Liderazgo de producto"
+    ],
+    "linkedin": "https://www.linkedin.com/in/devsanta/",
+    "category": "attendee",
+    "photo": "/images/people/samuel-santa.jpeg",
+    "photoPosition": "center 35%",
+    "logo": "/images/logos/nexor.svg",
+    "affiliations": [
+      {
+        "name": "Supersonik",
+        "label": "Product Lead",
+        "logo": "/images/affiliations/supersonik.svg"
+      }
+    ]
   }
 ]

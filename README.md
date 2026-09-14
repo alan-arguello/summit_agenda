@@ -1,6 +1,6 @@
 # Becoming AI Native · La comunidad
 
-Agenda y directorio del retiro de Torrenegra en Napa Valley. Proyecto independiente en Next.js 16, React 19 y TypeScript, con dos días de programación, 6 speakers y 13 asistentes.
+Agenda y directorio del retiro de Torrenegra en Napa Valley. Proyecto independiente en Next.js 16, React 19 y TypeScript, con dos días de programación, 6 speakers y 14 asistentes.
 
 ## Desarrollo
 
@@ -32,7 +32,7 @@ Para agregar una persona, duplica un registro, asigna un `slug` único y guarda 
 
 `affiliations` conserva el catálogo de trayectoria con `name`, `label` (relación documentada, sin texto visible bajo el logo), `logo` y `logoDark` opcional. Cada tarjeta muestra como máximo dos marcas: por defecto la empresa actual y la primera afiliación. `featuredLogos` permite seleccionar otras dos por nombre, como Shark Tank y World Economic Forum para Alexander. `logoFit` y `logoPosition` permiten encuadrar marcas dentro de archivos con margen, como el icono original de Doctor SV. Cada vínculo y activo se documenta en `SOURCES.md`; los archivos se guardan en `public/images/affiliations/`.
 
-Las 19 bios tienen entre 175 y 194 caracteres y se muestran completas. Las tarjetas usan flujo normal, con retrato e identidad juntos, bio a todo el ancho y una sola franja de logos. Los speakers muestran tres columnas desde 1180 px, dos desde 740 px y una debajo. Los asistentes usan dos columnas desde 740 px, con una sección centrada de máximo 1040 px para limitar cada tarjeta a 508 px; en móvil pasan a una columna. La última tarjeta queda centrada cuando la fila está incompleta. Cada ficha conserva su composición sin compartir alturas internas con las demás. Los temas se conservan como datos editoriales, sin chips en la interfaz.
+Las 20 bios tienen entre 175 y 194 caracteres y se muestran completas. Las tarjetas usan flujo normal, con retrato e identidad juntos, bio a todo el ancho y una sola franja de logos. Los speakers muestran tres columnas desde 1180 px, dos desde 740 px y una debajo. Los asistentes usan dos columnas desde 740 px, con una sección centrada de máximo 1040 px para limitar cada tarjeta a 508 px; en móvil pasan a una columna. La última tarjeta queda centrada cuando la fila está incompleta. Cada ficha conserva su composición sin compartir alturas internas con las demás. Los temas se conservan como datos editoriales, sin chips en la interfaz.
 
 ## Diseño y alcance
 
