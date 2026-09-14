@@ -311,17 +311,18 @@
   {
     "slug": "julian-montoya",
     "name": "Julian Montoya",
-    "role": "Especialista de Creciente · Storyteller",
-    "company": "YDN · Youth Development Network",
-    "bio": "Productor audiovisual y artista con formación en Derecho. Crea narrativas que amplifican voces latinas y participa en Creciente, conectando creatividad, liderazgo y desarrollo de comunidades.",
+    "role": "Emprendedor y productor audiovisual",
+    "company": "Phoenix",
+    "bio": "Combina experiencia en derecho en Colombia, producción audiovisual y liderazgo en organizaciones sin fines de lucro en Estados Unidos. Actualmente desarrolla una iniciativa enfocada en inteligencia artificial y automatización para crear soluciones prácticas que ayuden a pequeñas empresas a operar mejor y crecer.",
     "topics": [
-      "Narrativa audiovisual",
+      "IA y automatización para pymes",
+      "Producción audiovisual",
       "Liderazgo"
     ],
     "linkedin": "https://www.linkedin.com/in/julianmphoenix/",
     "category": "attendee",
     "photo": "/images/people/julian-montoya.png",
-    "logo": "/images/logos/julian-montoya.jpg",
+    "logo": "/images/logos/phoenix-circle.png",
     "logoIcon": true,
     "affiliations": []
   },

@@ -460,3 +460,13 @@ Subgerente general · SEI Sistemas e Instrumentación. Cargo y participación co
 - Retrato público original, 200 × 200 px, sin edición de identidad: https://media.licdn.com/dms/image/v2/C4E03AQEiA7sS6aDajg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1620437578847?e=2147483647&v=beta&t=O1RZHV9yTAW744THVsi5vIk6eLGbUJHhko_fj1u6Q-k . Copia local /images/people/alejandro-vargas.jpg, posición 53% 50%, con el mismo efecto ASCII interactivo del directorio.
 - Logo oficial transparente SEISA de la cabecera actual, 96 × 96 px: https://seisa.com.co/wp-content/uploads/2022/05/cropped-logo_seisa.png . Copia local /images/logos/seisa-current.png. Se mantiene la geometría y se muestra una marca, sin leyenda inferior.
 - Bio de 186 caracteres. Se excluye IBM porque solo apareció en una fuente secundaria y no fue verificable en el perfil público accesible.
+
+
+## Julian Montoya · actualización solicitada el 14 de septiembre de 2026
+
+El organizador proporcionó una nueva descripción, el logo de Phoenix y una captura del mensaje de Julian solicitando presentarse independientemente de YDN. Esta actualización reemplaza la afiliación anterior en la tarjeta.
+
+- Se elimina el título de Creciente / Storyteller y la referencia visible a YDN; título editorial: “Emprendedor y productor audiovisual”, basado en la nueva descripción, sin atribuir un cargo corporativo no indicado. Empresa mostrada: Phoenix.
+- Se conserva íntegro el texto proporcionado sobre derecho en Colombia, producción audiovisual, liderazgo en organizaciones sin fines de lucro en Estados Unidos e iniciativa de IA y automatización para pequeñas empresas.
+- Logo original proporcionado por el usuario: PHOENIX CIRCLE black.png, copiado sin alterar a /images/logos/phoenix-circle.png.
+- Retrato y enlace a LinkedIn conservados. La captura se usa solo como referencia para estos cambios; no se incorporan a la web datos de contacto ni logística de la conversación.

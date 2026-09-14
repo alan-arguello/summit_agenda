@@ -475,3 +475,6 @@ footer {
   html { scroll-behavior: auto; }
   *, *::before, *::after { transition: none !important; animation: none !important; }
 }
+
+#julian-montoya .brand-image { height: 56px; max-width: 56px; }
+#julian-montoya .brand-image img { mix-blend-mode: multiply; }
