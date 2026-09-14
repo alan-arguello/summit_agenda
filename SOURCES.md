@@ -447,3 +447,16 @@ AI Product Designer · Nexor. Asistente indicado por el organizador.
 - Logo Nexor original: https://www.getnexor.ai/assets/nexor-logo-dark-SV11tTJJ.svg, referenciado desde su web oficial. Activo local /images/logos/nexor.svg.
 - Logo Supersonik original: https://www.supersonik.ai/supersonik-wordmark-dark.svg, publicado en su homepage. Activo local /images/affiliations/supersonik.svg. Se conserva la geometría original y se cambia únicamente preserveAspectRatio de none a xMinYMid meet para evitar que el contenedor de la tarjeta lo estire.
 - Bio de 192 caracteres, dos logos oficiales y el mismo retrato ASCII con revelado desde toda la tarjeta. Sin leyendas debajo de las marcas; START Global Fellow queda en la bio.
+
+
+## Alejandro Vargas · incorporación del 14 de septiembre de 2026
+
+Subgerente general · SEI Sistemas e Instrumentación. Cargo y participación como asistente confirmados por el organizador.
+
+- [Perfil exacto solicitado](https://www.linkedin.com/in/alejandrovargasc/). La versión pública regional [LinkedIn Colombia](https://co.linkedin.com/in/alejandrovargasc) permitió verificar el nombre, la empresa SEI Sistemas e Instrumentación S.A. y el retrato. El detalle de experiencia requiere inicio de sesión.
+- El índice de Google del [mismo perfil en inglés](https://co.linkedin.com/in/alejandrovargasc/en) lo identifica como cofundador y líder técnico de Vertex Technology. Se presenta la cofundación como trayectoria, sin inventar fechas ni afirmar dedicación actual.
+- [Vertex Technology SAS en LinkedIn](https://co.linkedin.com/company/vertex-sas) incluye a Alejandro Vargas y describe experiencias de realidad virtual para empresas y trabajo en equipo. Su dominio enlazado no respondió; no se utiliza un logo de otra empresa con nombre similar.
+- [SEISA: quiénes somos](https://seisa.com.co/somos-seisa/) confirma soluciones de medición para sectores industriales, servicio técnico y laboratorio de calibración.
+- Retrato público original, 200 × 200 px, sin edición de identidad: https://media.licdn.com/dms/image/v2/C4E03AQEiA7sS6aDajg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1620437578847?e=2147483647&v=beta&t=O1RZHV9yTAW744THVsi5vIk6eLGbUJHhko_fj1u6Q-k . Copia local /images/people/alejandro-vargas.jpg, posición 53% 50%, con el mismo efecto ASCII interactivo del directorio.
+- Logo oficial transparente SEISA de la cabecera actual, 96 × 96 px: https://seisa.com.co/wp-content/uploads/2022/05/cropped-logo_seisa.png . Copia local /images/logos/seisa-current.png. Se mantiene la geometría y se muestra una marca, sin leyenda inferior.
+- Bio de 186 caracteres. Se excluye IBM porque solo apareció en una fuente secundaria y no fue verificable en el perfil público accesible.

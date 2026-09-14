@@ -491,5 +491,21 @@
         "logo": "/images/affiliations/supersonik.svg"
       }
     ]
+  },
+  {
+    "slug": "alejandro-vargas",
+    "name": "Alejandro Vargas",
+    "role": "Subgerente general",
+    "company": "SEI Sistemas e Instrumentación",
+    "bio": "Subgerente de SEISA, especializada en medición y calibración industrial. Cofundador de Vertex Technology, enfocada en experiencias de realidad virtual para empresas y equipos de trabajo.",
+    "topics": [
+      "Instrumentación industrial",
+      "Realidad virtual"
+    ],
+    "linkedin": "https://www.linkedin.com/in/alejandrovargasc/",
+    "category": "attendee",
+    "photo": "/images/people/alejandro-vargas.jpg",
+    "photoPosition": "53% 50%",
+    "logo": "/images/logos/seisa-current.png"
   }
 ]
