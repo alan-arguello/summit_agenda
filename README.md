@@ -42,6 +42,10 @@ El diseño reutiliza Switzer, verde bosque, marfil y el paisaje tramado de `/ret
 
 Incluye agenda, amenidades, servicios incluidos y directorio. La sección de amenidades reúne alberca, mini-gym y estacionamiento para 20 autos; los incluidos son snacks, bebidas y comidas del programa, según lo indicado por el organizador. Los datos se mantienen en archivos locales; no hay base de datos ni formulario de edición. La publicación en Sites se mantiene privada. La etiqueta `noindex` solicita no indexar la página y no sustituye los controles de acceso del alojamiento.
 
+## Vista previa al compartir
+
+`public/og.png` es la portada de Becoming AI Native. `src/app/layout.tsx` configura Open Graph y X con imagen, título, descripción y texto alternativo. `metadataBase` utiliza el dominio actual de Sites; actualízalo si el sitio cambia de dominio. La portada y la página necesitan ser accesibles al servicio que genera la vista previa: los controles de acceso privados del alojamiento pueden impedir que servicios externos la obtengan.
+
 ## Editar la agenda
 
 - `src/data/agenda.ts`: dos días con 11 entradas cada uno. Horarios de 24 horas, en hora local de California; `18:30` es la salida de regreso, no la llegada a San Francisco.
