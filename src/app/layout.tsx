@@ -4,7 +4,7 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "La comunidad | Becoming AI Native",
   description:
-    "Conoce a los speakers y asistentes de Becoming AI Native. 5 y 6 de octubre de 2026, Napa Valley.",
+    "Consulta la agenda y conoce a los speakers y asistentes de Becoming AI Native. 5 y 6 de octubre de 2026, Napa Valley.",
   robots: { index: false, follow: false },
   icons: { icon: "/favicon.png" },
 };

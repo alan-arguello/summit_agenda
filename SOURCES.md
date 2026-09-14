@@ -1,6 +1,6 @@
 # Fuentes del directorio
 
-Investigación realizada el 13 de septiembre de 2026. La lista y la clasificación en speakers/asistentes provienen del usuario. Las fuentes verifican trayectoria y activos, no una agenda individual de participación. Los temas son etiquetas editoriales de experiencia, no títulos de charlas.
+Investigación realizada el 13 de septiembre de 2026. La lista y la clasificación en speakers/asistentes provienen del usuario. Las fuentes verifican trayectoria y activos; la agenda y la participación en cada sesión fueron indicadas posteriormente por el organizador. Los temas del directorio son etiquetas editoriales de experiencia, distintas de los títulos de las sesiones de la agenda.
 
 Diseño, Switzer, paisaje y retratos del equipo reutilizados de la página oficial de [Becoming AI Native](https://www.torrenegra.com/es/retreat) y del proyecto consulting_website proporcionado por el usuario. El paisaje del encabezado es el arte tramado de la campaña, no una fotografía documental del lugar.
 
@@ -411,3 +411,24 @@ Ayuda a la comunidad de Supabase a crear software con IA. Desarrollador y empren
 - Identidad vinculada al LinkedIn exacto solicitado desde su sitio personal y GitHub. Cargo actual y trayectoria corroborados en fuentes propias el 13 de septiembre de 2026. Su paso por Latitud es histórico; no se presenta como empleo actual.
 - Retrato auténtico de GitHub y logos oficiales inspeccionados visualmente; activos locales `/images/people/tomas-pozo.png`, `/images/logos/supabase.svg` y `/images/affiliations/latitud.svg`.
 - Incorporación como speaker indicada por el usuario. Bio de 190 caracteres; misma composición y sin leyendas debajo de los logos.
+
+## Agenda del 5 y 6 de octubre de 2026
+
+El organizador proporcionó los 22 horarios, traslados, comidas, sesiones, participantes y reglas de grabación. Se conservó la programación completa, normalizando las horas mixtas am/pm a 24 horas. Las salidas de regreso son a las 18:30; no se infiere una hora de llegada. El 5 es lunes y el 6 martes. La zona horaria corresponde a California, donde ocurre el evento.
+
+La edición desarrolla los temas de las conversaciones y explica los forums como un consejo asesor entre pares, con facilitación. Solo Tania y Santy se marcan off the record y sin grabación. El feedback de Alexander y Tania y la participación de cada asistente provienen de la instrucción del organizador, no de una confirmación pública independiente.
+
+Fuentes y decisiones sobre el contexto profesional:
+
+- [Historia oficial de Bunny Studio: Tania, Alexander y Luis Molina como fundadores.](https://bunnystudio.com/blog/voice-bunny-is-part-of-bunny-studio/)
+- [Alexander, relato propio del crecimiento sin inversión externa.](https://torrenegra.medium.com/no-your-startup-doesnt-suck-5f2d10ec5af6)
+- [Entrevista con una proyección de ingresos de Bunny en 2020.](https://medium.com/authority-magazine/meet-the-disruptors-alexander-torrenegra-of-torre-on-the-three-things-you-need-to-shake-up-your-660ad4937492) Una proyección no prueba ingresos logrados ni ARR. No se incorporan US$10M ARR, un porcentaje de caída ni una atribución causal a un competidor concreto. La disrupción de la voz sintética y la reinvención son el tema de conversación aportado por el organizador.
+- [Google Cloud, 9 de julio de 2026: alcance nacional de Doctor SV y servicios integrados.](https://cloud.google.com/transform/more-care-for-all-expanding-national-healthcare-with-agentic-ai) Respalda la escala nacional, no el título de cofundador para Santy. Su trabajo en proyectos especiales del Gobierno de El Salvador y el tema de trabajar con el gobierno de Nayib Bukele provienen del organizador.
+- [Reporte de El Mundo que cita al director del proyecto sobre unas 20,000 llamadas al día en abril de 2026.](https://diario.elmundo.sv/nacionales/llamadas-diarias-de-doctorsv-aumentaron-a-20000-diarias-tras-lanzamiento-de-fase-ii) No equivale a más de 20,000 consultas diarias actuales. Se excluye la cifra y no se atribuye a Santy un cargo de cofundador de Chivo Wallet sin corroboración suficiente.
+- [Publicación oficial de Dapta con testimonio de Nicolás Rojas: inicio de Duvan a los 17 años y paso por Imagine Apps.](https://www.linkedin.com/posts/dapta-ai_congrats-to-our-dapter-duvan-were-so-proud-activity-7131328685143412736-NbOs) Se omite la edad porque difiere de los 16 del borrador. No se incluye la cofundación de Camila con Andrés Bilbao sin evidencia suficiente.
+- [Ficha oficial de Domu en Y Combinator: S24 y agentes para servicios financieros.](https://www.ycombinator.com/companies/domu-technology-inc)
+- [Afirmación promocional de integrante de Domu sobre crecimiento en S24.](https://www.linkedin.com/posts/syndelcallisaya_domu-aivoiceagents-yc-activity-7375997160238125056-qhv_) No es una clasificación publicada por YC. Se omiten el ranking y los US$8M en dos años, no corroborados en las fuentes consultadas, sin sustituirlos por cifras históricas distintas.
+
+## Amenidades e incluidos
+
+Información proporcionada directamente por el organizador: alberca, mini-gym y estacionamiento para 20 autos; snacks, bebidas y comidas incluidos. La interfaz aclara comidas del programa, sin prometer cenas, hospedaje, equipamiento del gimnasio, alcohol u otros servicios no especificados. Se presenta después de la agenda y antes del directorio, con enlace propio desde la navegación.

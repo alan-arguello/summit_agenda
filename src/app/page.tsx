@@ -1,5 +1,6 @@
 import Image from "next/image";
 import { people, type Person } from "@/lib/people";
+import Agenda from "./agenda";
 
 function Arrow({ diagonal = false }: { diagonal?: boolean }) {
   return (
@@ -33,7 +34,7 @@ function PersonCard({ person, index }: { person: Person; index: number }) {
     : brands.slice(0, 2);
 
   return (
-    <article className={`person-card ${person.category}`}>
+    <article id={person.slug} className={`person-card ${person.category}`}>
       <div className="person-intro">
         <a
           href={person.linkedin}
@@ -110,8 +111,8 @@ export default function Home() {
   const attendees = people.filter((person) => person.category === "attendee");
   return (
     <>
-      <a href="#directorio" className="skip-link">
-        Ir al directorio
+      <a href="#agenda" className="skip-link">
+        Ir a la agenda
       </a>
       <header className="site-header">
         <a href="#" className="brand" aria-label="Torrenegra, inicio">
@@ -167,7 +168,9 @@ export default function Home() {
           </div>
         </section>
         <div className="directory-nav" id="directorio">
-          <nav aria-label="Secciones del directorio">
+          <nav aria-label="Secciones del encuentro">
+            <a href="#agenda">Agenda</a>
+            <a href="#amenidades">Amenidades</a>
             <a href="#speakers">
               Speakers <span>{String(speakers.length).padStart(2, "0")}</span>
             </a>
@@ -179,6 +182,25 @@ export default function Home() {
           <p>Una comunidad. Distintas perspectivas.</p>
         </div>
         <div className="directory-content">
+          <Agenda speakers={speakers.map(({ slug, name, photo, photoPosition }) => ({ slug, name, photo, photoPosition }))} />
+          <div id="amenidades" className="event-comforts">
+            <section aria-labelledby="amenities-title">
+              <h2 id="amenities-title">Amenidades</h2>
+              <ul>
+                <li>Alberca</li>
+                <li>Mini-gym</li>
+                <li>Estacionamiento <span>para 20 autos</span></li>
+              </ul>
+            </section>
+            <section aria-labelledby="included-title">
+              <h2 id="included-title">Incluido</h2>
+              <ul>
+                <li>Snacks</li>
+                <li>Bebidas</li>
+                <li>Comidas <span>del programa</span></li>
+              </ul>
+            </section>
+          </div>
           <section
             id="speakers"
             aria-labelledby="speakers-title"

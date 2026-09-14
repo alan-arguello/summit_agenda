@@ -1,6 +1,6 @@
 # Becoming AI Native · La comunidad
 
-Directorio del retiro de Torrenegra en Napa Valley. Proyecto independiente en Next.js 16, React 19 y TypeScript, con 6 speakers y 13 asistentes.
+Agenda y directorio del retiro de Torrenegra en Napa Valley. Proyecto independiente en Next.js 16, React 19 y TypeScript, con dos días de programación, 6 speakers y 13 asistentes.
 
 ## Desarrollo
 
@@ -38,7 +38,15 @@ Las 19 bios tienen entre 175 y 194 caracteres y se muestran completas. Las tarje
 
 El diseño reutiliza Switzer, verde bosque, marfil y el paisaje tramado de `/retreat` del proyecto `consulting_website`. Incluye navegación por sección, retratos, biografías visibles y enlaces a LinkedIn, con foco de teclado, tarjetas amplias en móvil y respeto de la preferencia de movimiento reducido.
 
-Esta primera entrega es un directorio. Agenda, logística, recursos y administración de datos pueden incorporarse sobre esta base. Los datos se mantienen en el archivo JSON; no hay base de datos ni formulario de edición. La publicación en Sites se mantiene privada. La etiqueta `noindex` solicita no indexar la página y no sustituye los controles de acceso del alojamiento.
+Incluye agenda, amenidades, servicios incluidos y directorio. La sección de amenidades reúne alberca, mini-gym y estacionamiento para 20 autos; los incluidos son snacks, bebidas y comidas del programa, según lo indicado por el organizador. Los datos se mantienen en archivos locales; no hay base de datos ni formulario de edición. La publicación en Sites se mantiene privada. La etiqueta `noindex` solicita no indexar la página y no sustituye los controles de acceso del alojamiento.
+
+## Editar la agenda
+
+- `src/data/agenda.ts`: dos días con 11 entradas cada uno. Horarios de 24 horas, en hora local de California; `18:30` es la salida de regreso, no la llegada a San Francisco.
+- `src/app/agenda.tsx`: selector de días con navegación de teclado (flechas, Inicio y Fin), programa cronológico y enlaces internos a las fichas de los speakers.
+- `offRecord` marca únicamente las sesiones de Tania y Santy como off the record y sin grabación. No se infiere que las demás se graben.
+- Los horarios, temas, sesiones y participación son instrucciones del organizador. Tomás continúa en el directorio de speakers; no se le asignó una sesión que no figurara en la programación recibida.
+- La llegada a las 10:30 y el inicio del brunch a esa misma hora se conservan como entradas separadas. No se añadieron direcciones exactas ni una hora de llegada del traslado de regreso.
 
 ## Detalles editoriales a revisar
 
