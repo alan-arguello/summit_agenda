@@ -34,7 +34,7 @@ export default function Agenda({ speakers }: { speakers: AgendaSpeaker[] }) {
           <p className="section-pretitle">5 y 6 de octubre de 2026</p>
           <h2 id="agenda-title">La agenda</h2>
         </div>
-        <p>Hora local de California<br />Salidas de regreso a las 18:30</p>
+        <p>Hora local de California<br />Regreso: día 5 a las 19:30 · día 6 a las 18:30</p>
       </div>
       <div className="agenda-tabs" role="tablist" aria-label="Días del encuentro">
         {agenda.map((day, index) => (

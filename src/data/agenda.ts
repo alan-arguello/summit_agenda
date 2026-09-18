@@ -59,12 +59,18 @@ export const agenda: AgendaDay[] = [
       },
       {
         start: "16:30", end: "17:30", kind: "session", format: "Fireside chat",
+        title: "AI Native vs Traditional Business: Lo que he aprendido",
+        speakers: ["gabriel-luna-ostaseski"],
+        description: "Gabriel compartirá lo aprendido al cofundar Braintrust y Modernize y al adquirir y operar negocios desde Upshift Partners. Una conversación sobre empresas AI native y negocios tradicionales: cómo cambian la operación y el crecimiento, qué aprendizajes comparten y qué exige construir en cada modelo.",
+      },
+      {
+        start: "17:30", end: "18:30", kind: "session", format: "Fireside chat",
         title: "Cómo construyen los equipos que llevan la IA a producción",
         speakers: ["duvan-salcedo"],
         description: "Desde sus inicios en Imagine Apps y el equipo fundador de Dapta hasta liderar IA en Domu, compañía de Y Combinator S24. Duvan compartirá cómo organiza equipos de ingeniería para construir productos con agentes, pasar del prototipo a producción y sostener la calidad mientras crecen.",
       },
-      { start: "17:30", end: "18:30", title: "Happy hour", description: "Tiempo para seguir las conversaciones y conectar con la comunidad." },
-      { start: "18:30", title: "Regreso a Union Square", description: "Salida de Napa hacia San Francisco." },
+      { start: "18:30", end: "19:30", title: "Happy hour", description: "Tiempo para seguir las conversaciones y conectar con la comunidad." },
+      { start: "19:30", title: "Regreso a Union Square", description: "Salida de Napa hacia San Francisco." },
     ],
   },
   {

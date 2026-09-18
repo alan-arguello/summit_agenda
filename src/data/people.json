@@ -123,6 +123,31 @@
     ]
   },
   {
+    "slug": "gabriel-luna-ostaseski",
+    "name": "Gabriel Luna-Ostaseski",
+    "role": "Founder & Managing Partner",
+    "company": "Upshift Partners",
+    "bio": "Cofundó Braintrust y Modernize. Hoy adquiere y acelera negocios rentables desde Upshift Partners, combinando estrategia comercial, construcción de marca y experiencia escalando marketplaces.",
+    "topics": [
+      "Crecimiento de negocios",
+      "AI native y negocios tradicionales"
+    ],
+    "linkedin": "https://www.linkedin.com/in/gabelunaostaseski/",
+    "category": "speaker",
+    "photo": "/images/people/gabriel-luna-ostaseski.png",
+    "photoPosition": "center 35%",
+    "logo": "/images/logos/upshift-partners.png",
+    "logoFit": "cover",
+    "logoPosition": "center 50%",
+    "affiliations": [
+      {
+        "name": "Braintrust",
+        "label": "Cofundador",
+        "logo": "/images/affiliations/braintrust.png"
+      }
+    ]
+  },
+  {
     "slug": "duvan-salcedo",
     "name": "Duvan Salcedo",
     "role": "VP de IA",

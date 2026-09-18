@@ -1,6 +1,6 @@
 # Becoming AI Native · La comunidad
 
-Agenda y directorio del retiro de Torrenegra en Napa Valley. Proyecto independiente en Next.js 16, React 19 y TypeScript, con dos días de programación, 6 speakers y 15 asistentes.
+Agenda y directorio del retiro de Torrenegra en Napa Valley. Proyecto independiente en Next.js 16, React 19 y TypeScript, con dos días de programación, 7 speakers y 15 asistentes.
 
 ## Desarrollo
 
@@ -32,7 +32,7 @@ Para agregar una persona, duplica un registro, asigna un `slug` único y guarda 
 
 `affiliations` conserva el catálogo de trayectoria con `name`, `label` (relación documentada, sin texto visible bajo el logo), `logo` y `logoDark` opcional. Cada tarjeta muestra como máximo dos marcas: por defecto la empresa actual y la primera afiliación. `featuredLogos` permite seleccionar otras dos por nombre, como Shark Tank y World Economic Forum para Alexander. `logoFit` y `logoPosition` permiten encuadrar marcas dentro de archivos con margen, como el icono original de Doctor SV. Cada vínculo y activo se documenta en `SOURCES.md`; los archivos se guardan en `public/images/affiliations/`.
 
-Las bios se muestran completas. Veinte tienen entre 175 y 194 caracteres; la de Julian Montoya conserva íntegro el texto de 313 caracteres proporcionado por el organizador. Las tarjetas usan flujo normal, con retrato e identidad juntos, bio a todo el ancho y una sola franja de logos. Los speakers muestran tres columnas desde 1180 px, dos desde 740 px y una debajo. Los asistentes usan dos columnas desde 740 px, con una sección centrada de máximo 1040 px para limitar cada tarjeta a 508 px; en móvil pasan a una columna. La última tarjeta queda centrada cuando la fila está incompleta. Cada ficha conserva su composición sin compartir alturas internas con las demás. Los temas se conservan como datos editoriales, sin chips en la interfaz.
+Las bios se muestran completas. Veintiuna tienen entre 175 y 194 caracteres; la de Julian Montoya conserva íntegro el texto de 313 caracteres proporcionado por el organizador. Las tarjetas usan flujo normal, con retrato e identidad juntos, bio a todo el ancho y una sola franja de logos. Los speakers muestran tres columnas desde 1180 px, dos desde 740 px y una debajo. Los asistentes usan dos columnas desde 740 px, con una sección centrada de máximo 1040 px para limitar cada tarjeta a 508 px; en móvil pasan a una columna. La última tarjeta queda centrada cuando la fila está incompleta. Cada ficha conserva su composición sin compartir alturas internas con las demás. Los temas se conservan como datos editoriales, sin chips en la interfaz.
 
 ## Diseño y alcance
 
@@ -48,7 +48,7 @@ Incluye agenda, amenidades, servicios incluidos y directorio. La sección de ame
 
 ## Editar la agenda
 
-- `src/data/agenda.ts`: dos días con 11 entradas cada uno. Horarios de 24 horas, en hora local de California; `18:30` es la salida de regreso, no la llegada a San Francisco.
+- `src/data/agenda.ts`: dos días con 12 entradas el 5 y 11 el 6. Horarios de 24 horas, en hora local de California. El regreso sale de Napa a las `19:30` el día 5 y a las `18:30` el día 6; no son horas de llegada a San Francisco.
 - `src/app/agenda.tsx`: selector de días con navegación de teclado (flechas, Inicio y Fin), programa cronológico y enlaces internos a las fichas de los speakers.
 - `offRecord` marca únicamente las sesiones de Tania y Santy como off the record y sin grabación. No se infiere que las demás se graben.
 - Los horarios, temas, sesiones y participación son instrucciones del organizador. Tomás continúa en el directorio de speakers; no se le asignó una sesión que no figurara en la programación recibida.
@@ -61,3 +61,7 @@ Incluye agenda, amenidades, servicios incluidos y directorio. La sección de ame
 - Las bios y cargos se investigaron el 13 de septiembre de 2026. Los temas describen experiencia profesional; no anuncian una charla o agenda individual.
 
 Los retratos provienen de fuentes públicas identificadas o de activos originales anteriores del organizador. No se generaron rostros ni se atribuyeron afiliaciones por la participación en el evento.
+
+## Actualización del 18 de septiembre de 2026
+
+Gabriel Luna-Ostaseski se incorpora como speaker. El 5 de octubre, su fireside chat “AI Native vs Traditional Business: Lo que he aprendido” va de 16:30 a 17:30; Duvan pasa a 17:30–18:30, el happy hour a 18:30–19:30 y la salida a Union Square a las 19:30, según confirmación del organizador. El 6 de octubre conserva su programación.

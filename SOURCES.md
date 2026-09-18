@@ -414,7 +414,7 @@ Ayuda a la comunidad de Supabase a crear software con IA. Desarrollador y empren
 
 ## Agenda del 5 y 6 de octubre de 2026
 
-El organizador proporcionó los 22 horarios, traslados, comidas, sesiones, participantes y reglas de grabación. Se conservó la programación completa, normalizando las horas mixtas am/pm a 24 horas. Las salidas de regreso son a las 18:30; no se infiere una hora de llegada. El 5 es lunes y el 6 martes. La zona horaria corresponde a California, donde ocurre el evento.
+El organizador proporcionó los 22 horarios, traslados, comidas, sesiones, participantes y reglas de grabación. Se conservó la programación completa, normalizando las horas mixtas am/pm a 24 horas. La programación inicial indicaba salidas de regreso a las 18:30; la actualización confirmada el 18 de septiembre mueve la del día 5 a las 19:30 y mantiene la del día 6 a las 18:30. No se infiere una hora de llegada. El 5 es lunes y el 6 martes. La zona horaria corresponde a California, donde ocurre el evento.
 
 La edición desarrolla los temas de las conversaciones y explica los forums como un consejo asesor entre pares, con facilitación. Solo Tania y Santy se marcan off the record y sin grabación. El feedback de Alexander y Tania y la participación de cada asistente provienen de la instrucción del organizador, no de una confirmación pública independiente.
 
@@ -470,3 +470,17 @@ El organizador proporcionó una nueva descripción, el logo de Phoenix y una cap
 - Se conserva íntegro el texto proporcionado sobre derecho en Colombia, producción audiovisual, liderazgo en organizaciones sin fines de lucro en Estados Unidos e iniciativa de IA y automatización para pequeñas empresas.
 - Logo original proporcionado por el usuario: PHOENIX CIRCLE black.png, copiado sin alterar a /images/logos/phoenix-circle.png.
 - Retrato y enlace a LinkedIn conservados. La captura se usa solo como referencia para estos cambios; no se incorporan a la web datos de contacto ni logística de la conversación.
+
+
+## Gabriel Luna-Ostaseski · incorporación del 18 de septiembre de 2026
+
+Speaker, foto, cargo, trayectoria y tema proporcionados directamente por el organizador. La bio se resume en 190 caracteres para mantener la proporción de las otras tarjetas.
+
+- [LinkedIn exacto indicado](https://www.linkedin.com/in/gabelunaostaseski/). El cargo Founder & Managing Partner en Upshift Partners y las cofundaciones de Braintrust y Modernize proceden de la biografía compartida por el organizador. No se presenta el perfil de LinkedIn como inspeccionado.
+- [Upshift Partners](https://www.upshiftpartners.com/) identifica a Gabe Luna-Ostaseski como Partner. [Braintrust](https://www.usebraintrust.com/blog/nestle-client-story) confirma su papel como cofundador.
+- Foto original de 800 × 800 proporcionada por el usuario, conservada sin alterar en /images/people/gabriel-luna-ostaseski.png. El efecto ASCII reutiliza el componente del directorio; no se genera ni modifica su identidad.
+- Logo Upshift oficial de 400 × 400, enlazado como apple-touch-icon desde su sitio: https://framerusercontent.com/images/bH2yMqJcBoHmC48r4PrATiYSU.png . Copia local /images/logos/upshift-partners.png; el contenedor encuadra el wordmark central.
+- Wordmark Braintrust oficial de 4000 × 1000 y fondo transparente, referenciado por su homepage: https://www.usebraintrust.com/braintrust-logo.png . Copia local /images/affiliations/braintrust.png.
+- Se muestran Upshift Partners y Braintrust. No se convierten las asesorías a otras empresas ni las clases invitadas en afiliaciones laborales. Las cifras de ingresos y clientes, aportadas por el usuario, se omiten de la minibio para mantenerla breve y no mezclar métricas de distintas empresas.
+- Charla del 5 de octubre: “AI Native vs Traditional Business: Lo que he aprendido”, de 16:30 a 17:30. La descripción editorial desarrolla el tema indicado y su experiencia en creación, adquisición y operación de empresas, sin prometer contenido adicional ni grabación.
+- Duvan pasa a 17:30–18:30. El organizador confirmó expresamente happy hour de 18:30 a 19:30 y salida de Napa hacia Union Square a las 19:30. Se actualiza también la referencia de regreso en el encabezado de agenda. El 6 de octubre no cambia.
